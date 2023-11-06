@@ -3,6 +3,7 @@ import sys
 import time
 import uuid
 
+import openai
 import openai.embeddings_utils
 import pinecone
 from dotenv import load_dotenv
@@ -36,7 +37,7 @@ def load_document_content(title):
 
 
 def create_pinecone_index():
-    pinecone.create_index(pinecone_index_name, metric='cosine', shards=1, dimension=1536)
+    pinecone.create_index(pinecone_index_name, metric='cosine', dimension=1536)
 
 
 def fill_pinecone_index(documents):
