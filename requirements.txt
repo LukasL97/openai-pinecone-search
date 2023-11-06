@@ -1,0 +1,6 @@
+
+openai==0.28.1
+openai[embeddings]==0.28.1
+pinecone-client==2.2.4
+python-dotenv~=0.19.2
+datasets~=2.14.6
