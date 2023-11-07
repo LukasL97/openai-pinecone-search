@@ -37,6 +37,9 @@ the texts of the relevant documents.
 
 ## Implementation
 
+We will look at an implementation of the above-mentioned approach in a small python script.
+You can find the entire code for the demo on [GitHub](https://github.com/LukasL97/openai-pinecone-search).
+
 ### Set up OpenAI and Pinecone
 
 We first need to create accounts and API keys for [OpenAI](https://platform.openai.com/) and
