@@ -2,7 +2,7 @@
 
 ## Approach
 
-The core idea of the approach is to use OpenAI's chat completion model to answer a question about our documents.
+The core idea of the approach is to use OpenAI's chat completion model to answer questions about our documents.
 To do so, we create a prompt that includes the question and the documents and asks the model to answer the question
 based on the text contents of these documents.
 The problem is that the prompt we can use as input to the chat completion model is limited in length, and we might have
@@ -14,53 +14,40 @@ Text embeddings are high-dimensional numerical vectors that represent the meanin
 semantically related texts are close to each other in the vector space.
 We can use an embedding model to embed all our documents, resulting in a vector for each document.
 While different embedding models are available, we will use an embedding model provided by OpenAI via the API.
+
 The resulting vectors are then stored in a vector database.
-A vector database is a database that is designed to store and efficiently query large amounts of vectors,
-based on different similarity metrics.
+A vector database is a database that is designed to store and efficiently query large amounts of vectors.
+Querying uses an algorithmic approach to find the nearest neighboring vectors in the database to a given query vector,
+using different distance metrics.
 In this case, we will use the vector database provided by Pinecone, which is a managed vector database service.
 
 
 ![Diagram of the document embedding process](openai-pinecone-search-embedding.png)
 
-With our vector database filled with our embedded documents, we can now ask questions about these documents.
+With a Pinecone index filled with our embedded documents, we can now ask questions about these documents.
 To do so, we first embed the question using the same embedding model that we used for the documents.
-This results in a vector representation of the question, for which we will find the most similar vectors in the
+This results in a vector representation of the question, for which we will find the nearest document vectors in the
 database by querying the Pinecone index.
-We load the texts of the found documents and put them into the prompt for the chat completion model, along with the
+We load the texts of the found documents and combine them to a prompt for the chat completion model, along with the
 question text.
 Then, we put the prompt into the chat completion model, which will return an answer to our question based on
 the texts of the relevant documents.
 
 ![Diagram of the query process](openai-pinecone-search-query.png)
 
-
 ## Implementation
 
 ### Set up OpenAI and Pinecone
 
-In order to use OpenAI and Pinecone, we first need API access to both services.
-We can create an OpenAI account at https://platform.openai.com/ and then create a new API key
-at https://platform.openai.com/account/api-keys.
-For Pinecone, we create an account and a new project in the Pinecone console at https://app.pinecone.io/ and then go
-to the *API keys* tab to create a new API key.
-The API key should use the *gcp-starter* environment.
-
-We set up both key values in an *.env* file, which our python script will use to load the values:
-
-```
-OPENAI_API_KEY=<YOUR OPENAI API KEY>
-PINECONE_API_KEY=<YOUR PINECONE API KEY>
-```
-
-We initialize both the OpenAI client and the Pinecone client in the python script:
+We first need to create accounts and API keys for [OpenAI](https://platform.openai.com/) and
+[Pinecone](https://app.pinecone.io/) in the respective developer consoles.
+Assuming the API keys are stored in environment variables, we can initialize the OpenAI and Pinecone clients in
+our python script.
 
 ```python
 import os
 import openai
 import pinecone
-from dotenv import load_dotenv
-
-load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 pinecone.init(api_key=os.getenv("PINECONE_API_KEY"), environment='gcp-starter')
@@ -79,12 +66,7 @@ we will use the *cosine* metric.
 
 ```python
 pinecone_index_name = 'document-search-index'
-
-def create_pinecone_index():
-    pinecone.create_index(pinecone_index_name, metric='cosine', dimension=1536)
-
-
-create_pinecone_index()
+pinecone.create_index(pinecone_index_name, metric='cosine', dimension=1536)
 ```
 
 We can also configure the index with regard to the number of pods and pod type.
@@ -250,7 +232,7 @@ print(answer)
 ```
 
 Now we can ask questions about information from out documents and retrieve an answer from OpenAI.
-As an example, we try out the following question:
+Using some Wikipedia articles about different topics as our example documents, we try out the following question:
 
 > What role does the president play in the political system of Angola?
 
