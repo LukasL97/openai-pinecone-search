@@ -1,11 +1,22 @@
 # Answer questions about your documents with OpenAI and Pinecone
 
+In the past years, large language models (LLMs) have made great progresses in having conversations with humans
+and have proven to be able to answer questions.
+As they are trained on publicly available internet content, they have a broad knowledge about many different topics.
+However, they are limited to information that was available to them during training and are thus not able to answer
+questions about specific content from your documents.
+
+In this article, we will have a look at how we can overcome this limitation, by combining OpenAI's chat completion model
+with a Pinecone vector database.
+We will first have a look at the general approach and then go into detail and implement an intelligent question
+answering system in Python, using the APIs of both OpenAI and Pinecone.
+
 ## Approach
 
 The core idea of the approach is to use OpenAI's chat completion model to answer questions about our documents.
 To do so, we create a prompt that includes the question and the documents and asks the model to answer the question
 based on the text contents of these documents.
-The problem is that the prompt we can use as input to the chat completion model is limited in length, and we might have
+The problem is that the prompt we can provide as input to the chat completion model is limited in length, and we might have
 a large number of documents, whose contents combined exceed this limit.
 Hence, we first have to filter the documents to find the most relevant ones for the question.
 
@@ -16,9 +27,9 @@ We can use an embedding model to embed all our documents, resulting in a vector 
 While different embedding models are available, we will use an embedding model provided by OpenAI via the API.
 
 The resulting vectors are then stored in a vector database.
-A vector database is a database that is designed to store and efficiently query large amounts of vectors.
-Querying uses an algorithmic approach to find the nearest neighboring vectors in the database to a given query vector,
-using different distance metrics.
+Vector databases are designed to store and efficiently query large amounts of vectors.
+Querying uses an algorithmic approach to find the nearest neighboring vectors to a given query vector
+in a database index, using different distance metrics.
 In this case, we will use the vector database provided by Pinecone, which is a managed vector database service.
 
 
@@ -37,7 +48,7 @@ the texts of the relevant documents.
 
 ## Implementation
 
-We will look at an implementation of the above-mentioned approach in a small python script.
+We will look at an implementation of the question answering approach in a small python script.
 You can find the entire code for the demo on [GitHub](https://github.com/LukasL97/openai-pinecone-search).
 
 ### Set up OpenAI and Pinecone
@@ -100,7 +111,7 @@ def load_documents():
     return documents
 ```
 
-Next, we need to a function to embed the content of a document using OpenAI's embedding model.
+Next, we need a function to embed the content of a document using OpenAI's embedding model.
 The OpenAI client offers an endpoint for that, which allows us to specify an embedding model.
 We use the model *text-embedding-ada-002*, which is
 [recommended by OpenAI](https://platform.openai.com/docs/guides/embeddings/embedding-models) at the time of
@@ -152,7 +163,7 @@ Further, the embedding model we use is currently limited to texts of up to 8,191
 enough for all documents in *data*.
 In this case, we simply skip the embedding and insertion of these document, so that not all our documents will end up
 as vectors in the index.
-If you have long documents with a lot of text, you may want to consider splitting them into smaller chunks and embed
+If you have large documents with a lot of text, you may want to consider splitting them into smaller chunks and embed
 those individually.
 
 ### Answer questions about the documents
@@ -245,3 +256,26 @@ Using this document in our prompt enables OpenAI to answer the question correctl
 > The president in the political system of Angola holds almost absolute power. They are the head of state and head of government, as well as the leader of the winning party or coalition. The president appoints and dismisses members of the government, members of various courts, the Governor and Vice-Governors of the Nacional Angolan Bank, the General-Attorney and their deputies, the Governors of the provinces, and many other key positions in the government, military, police, intelligence, and security organs. The president is also responsible for defining the policy of the country and has the power to promulgate laws and make edicts. However, the president is not directly involved in making laws.
 
 ## Conclusion
+
+As demonstrated in this article, we can combine large language models and vector databases to build intelligent
+question answering systems, that are able to answer questions about specific content from our documents.
+With managed services like OpenAI and Pinecone, we can easily build such systems without having to worry about
+training our own models or setting up and maintaining our own vector database.
+
+As a disclaimer, I want to note that data privacy should be considered when using the approach presented in this article
+to build a question answering system on documents that contain sensitive information.
+[While OpenAI claims, that they do not train their models on inputs provided vie the API](https://openai.com/enterprise-privacy),
+you might still want to consider alternatives when working with private or enterprise data.
+Instead of using OpenAI, you could use [one of the many open source LLMs](https://github.com/eugeneyan/open-llms) and
+host it yourself, which naturally comes with significantly greater expenses.
+
+Further, Pinecone is not the only vector database service available.
+An interesting alternative is the open-source database solution [Chroma](https://www.trychroma.com/), which
+actually comes with its own embedding model.
+Instead of inserting and querying embedding vectors into the database, Chroma allows us to work with the texts directly,
+rendering the use of OpenAI's embedding model unnecessary.
+Another alternative is [Faiss](https://faiss.ai/index.html), which is an open-source library for efficient GPU-driven
+vector similarity search.
+Compared to Pinecone, Faiss lacks the ability to store vectors as it is only a vector index, not a vector database.
+Both Chroma and Faiss require you to host a database yourself, which make them somewhat less convenient to use than
+the managed Pinecone database.
