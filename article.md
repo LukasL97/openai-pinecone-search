@@ -1,15 +1,17 @@
 # Answer questions about your documents with OpenAI and Pinecone
 
-In the past years, large language models (LLMs) have made great progresses in having conversations with humans
-and have proven to be able to answer questions.
-As they are trained on publicly available internet content, they have a broad knowledge about many different topics.
-However, they are limited to information that was available to them during training and are thus not able to answer
-questions about specific content from your documents.
+In recent years, large language models (LLMs) have made remarkable progress in interacting with humans,
+showcasing their ability to answer a wide array of questions.
+Trained on publicly accessible internet content, these models have broad knowledge across many different topics.
+However, they are limited to information that was available to them during training and thus fail to answer any
+questions about specific content from your personal documents.
 
-In this article, we will have a look at how we can overcome this limitation, by combining OpenAI's chat completion model
-with a Pinecone vector database.
+In this article, we will have a look at how we can overcome this limitation, by combining 
+[OpenAI](https://platform.openai.com/docs/overview)'s chat completion model
+with a [Pinecone](https://www.pinecone.io/) vector database.
 We will first have a look at the general approach and then go into detail and implement an intelligent question
-answering system in Python, using the APIs of both OpenAI and Pinecone.
+answering system in Python, using the APIs of both OpenAI and Pinecone, which enables the LLM to provide useful
+responses to inquiries about personal documents.
 
 ## Approach
 
