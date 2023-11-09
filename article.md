@@ -18,9 +18,11 @@ responses to inquiries about personal documents.
 The core idea of the approach is to use OpenAI's chat completion model to answer questions about our documents.
 To do so, we create a prompt that includes the question and the documents and asks the model to answer the question
 based on the text contents of these documents.
-The problem is that the prompt we can provide as input to the chat completion model is limited in length, and we might have
-a large number of documents, whose contents combined exceed this limit.
-Hence, we first have to filter the documents to find the most relevant ones for the question.
+With this naive idea we face the obstacle that the prompt we can provide as input to the chat completion model is 
+limited in length.
+Meanwhile, we might have a large number of documents, whose contents combined exceed this limit.
+Hence, we first have to filter the documents to find the most relevant ones for the question, in order to reduce the
+length to the prompt below the limit.
 
 To find the documents that are relevant for a question we make use of text embeddings.
 Text embeddings are high-dimensional numerical vectors that represent the meaning of a text in such a way, that
@@ -37,10 +39,13 @@ In this case, we will use the vector database provided by Pinecone, which is a m
 
 ![Diagram of the document embedding process](openai-pinecone-search-embedding.png)
 
-With a Pinecone index filled with our embedded documents, we can now ask questions about these documents.
+With a Pinecone index filled with our embedded documents, we can now ask questions about their contents.
 To do so, we first embed the question using the same embedding model that we used for the documents.
-This results in a vector representation of the question, for which we will find the nearest document vectors in the
-database by querying the Pinecone index.
+This results in a vector representation of the question, which should be close to the vectors of semantically
+related documents, that could provide the information required to answer the question.
+
+By querying the Pinecone index with the embedding vector of the question, we retrieve the nearest document vectors in
+the database.
 We load the texts of the found documents and combine them to a prompt for the chat completion model, along with the
 question text.
 Then, we put the prompt into the chat completion model, which will return an answer to our question based on
