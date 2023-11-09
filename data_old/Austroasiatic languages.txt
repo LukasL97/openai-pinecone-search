@@ -1,0 +1,261 @@
+The Austroasiatic languages , also known as Mon–Khmer , are a large language family in  Mainland Southeast Asia and South Asia. These languages are scattered throughout parts of Thailand, India, Bangladesh, Nepal, and southern China. There are around 117 million speakers of Austroasiatic languages. Of these languages, only Vietnamese, Khmer, and Mon have a long-established recorded history. Only two have official status as modern national languages: Vietnamese in Vietnam and Khmer in Cambodia.  The Mon language is a recognized indigenous language in Myanmar and Thailand. In Myanmar, the Wa language is the de facto official language of Wa State. Santali is one of the 22 scheduled languages of India. The rest of the languages are spoken by minority groups and have no official status.
+
+Ethnologue identifies 168 Austroasiatic languages. These form thirteen established families (plus perhaps Shompen, which is poorly attested, as a fourteenth), which have traditionally been grouped into two, as Mon–Khmer, and Munda. However, one recent classification posits three groups (Munda, Nuclear Mon-Khmer, and Khasi–Khmuic), while another has abandoned Mon–Khmer as a taxon altogether, making it synonymous with the larger family.
+
+Austroasiatic languages have a disjunct distribution across Southeast Asia and parts of India, Bangladesh, Nepal and East Asia, separated by regions where other languages are spoken. They appear to be the extant original languages of Mainland Southeast Asia (excluding the Andaman Islands), with the neighboring, and sometimes surrounding, Kra–Dai, Hmong-Mien, Austronesian, and Sino-Tibetan languages being the result of later migrations.
+
+Etymology
+The name Austroasiatic comes from a combination of the Latin words for "South" and "Asia", hence "South Asia".
+
+Typology
+Regarding word structure, Austroasiatic languages are well known for having an iambic "sesquisyllabic" pattern, with basic nouns and verbs consisting of an initial, unstressed, reduced minor syllable followed by a stressed, full syllable. This reduction of presyllables has led to a variety among modern languages of phonological shapes of the same original Proto-Austroasiatic prefixes, such as the causative prefix, ranging from CVC syllables to consonant clusters to single consonants. As for word formation, most Austroasiatic languages have a variety of derivational prefixes, many have infixes, but suffixes are almost completely non-existent in most branches except Munda, and a few specialized exceptions in other Austroasiatic branches.
+
+The Austroasiatic languages are further characterized as having unusually large vowel inventories and employing some sort of register contrast, either between modal (normal) voice and breathy (lax) voice or between modal voice and creaky voice. Languages in the Pearic branch and some in the Vietic branch can have a three- or even four-way voicing contrast.
+
+However, some Austroasiatic languages have lost the register contrast by evolving more diphthongs or in a few cases, such as Vietnamese, tonogenesis. Vietnamese has been so heavily influenced by Chinese that its original Austroasiatic phonological quality is obscured and now resembles that of South Chinese languages, whereas Khmer, which had more influence from Sanskrit, has retained a more typically Austroasiatic structure.
+
+Proto-language
+
+Much work has been done on the reconstruction of Proto-Mon–Khmer in Harry L. Shorto's Mon–Khmer Comparative Dictionary. Little work has been done on the Munda languages, which are not well documented. With their demotion from a primary branch, Proto-Mon–Khmer becomes synonymous with Proto-Austroasiatic. Paul Sidwell (2005) reconstructs the consonant inventory of Proto-Mon–Khmer as follows:
+
+This is identical to earlier reconstructions except for .   is better preserved in the Katuic languages, which Sidwell has specialized in.
+
+Internal classification
+Linguists traditionally recognize two primary divisions of Austroasiatic: the Mon–Khmer languages of Southeast Asia, Northeast India and the Nicobar Islands, and the Munda languages of East and Central India and parts of Bangladesh, parts of Nepal. However, no evidence for this classification has ever been published.
+
+Each of the families that is written in boldface type below is accepted as a valid clade. By contrast, the relationships between these families within Austroasiatic are debated. In addition to the traditional classification, two recent proposals are given, neither of which accepts traditional "Mon–Khmer" as a valid unit. However, little of the data used for competing classifications has ever been published, and therefore cannot be evaluated by peer review.
+
+In addition, there are suggestions that additional branches of Austroasiatic might be preserved in substrata of Acehnese in Sumatra (Diffloth), the Chamic languages of Vietnam, and the Land Dayak languages of Borneo (Adelaar 1995).
+
+Diffloth (1974)
+Diffloth's widely cited original classification, now abandoned by Diffloth himself, is used in Encyclopædia Britannica and—except for the breakup of Southern Mon–Khmer—in Ethnologue.
+
+ Munda
+ North Munda
+ Korku
+ Kherwarian
+ South Munda
+ Kharia–Juang
+ Koraput Munda
+ Mon–Khmer
+ Eastern Mon–Khmer
+ Khmer (Cambodian)
+ Pearic
+ Bahnaric
+ Katuic
+ Vietic (Vietnamese, Muong)
+ Northern Mon–Khmer
+ Khasi (Meghalaya, India)
+ Palaungic
+ Khmuic
+ Southern Mon–Khmer
+ Mon
+ Aslian (Malaya)
+ Nicobarese (Nicobar Islands)
+
+Peiros (2004) 
+Peiros is a lexicostatistic classification, based on percentages of shared vocabulary. This means that languages can appear to be more distantly related than they actually are due to language contact. Indeed, when Sidwell (2009) replicated Peiros's study with languages known well enough to account for loans, he did not find the internal (branching) structure below.
+
+ Nicobarese
+ Munda–Khmer
+ Munda
+ Mon–Khmer
+ Khasi
+ Nuclear Mon–Khmer
+ Mangic (Mang + Palyu) (perhaps in Northern MK)
+ Vietic (perhaps in Northern MK)
+ Northern Mon–Khmer
+ Palaungic
+ Khmuic
+ Central Mon–Khmer
+ Khmer dialects
+ Pearic
+ Asli-Bahnaric
+ Aslian
+ Mon–Bahnaric
+ Monic
+ Katu–Bahnaric
+ Katuic
+ Bahnaric
+
+Diffloth (2005) 
+Diffloth compares reconstructions of various clades, and attempts to classify them based on shared innovations, though like other classifications the evidence has not been published. As a schematic, we have:
+
+Or in more detail,
+
+ Munda languages (India)
+ Koraput: 7 languages
+Core Munda languages
+ Kharian–Juang: 2 languages
+North Munda languages
+ Korku
+ Kherwarian: 12 languages
+
+ Khasi–Khmuic languages (Northern Mon–Khmer)
+ Khasian: 3 languages of north eastern India and adjacent region of Bangladesh
+Palaungo-Khmuic languages
+ Khmuic: 13 languages of Laos and Thailand
+
+Palaungo-Pakanic languages
+ Pakanic or Palyu: 4 or 5 languages of southern China and Vietnam
+ Palaungic: 21 languages of Burma, southern China, and Thailand
+
+ Nuclear Mon–Khmer languages
+ Khmero-Vietic languages (Eastern Mon–Khmer)
+
+ Vieto-Katuic languages ?
+ Vietic: 10 languages of Vietnam and Laos, including the Vietnamese language, which has the most speakers of any Austroasiatic language.
+ Katuic: 19 languages of Laos, Vietnam, and Thailand.
+
+ Khmero-Bahnaric languages
+ Bahnaric: 40 languages of Vietnam, Laos, and Cambodia.
+Khmeric languages
+ The Khmer dialects of Cambodia, Thailand, and Vietnam.
+ Pearic: 6 languages of Cambodia.
+
+ Nico-Monic languages (Southern Mon–Khmer)
+ Nicobarese: 6 languages of the Nicobar Islands, a territory of India.
+
+ Asli-Monic languages
+ Aslian: 19 languages of peninsular Malaysia and Thailand.
+ Monic: 2 languages, the Mon language of Burma and the Nyahkur language of Thailand.
+
+Sidwell (2009–2015) 
+
+Paul Sidwell (2009), in a lexicostatistical comparison of 36 languages which are well known enough to exclude loanwords, finds little evidence for internal branching, though he did find an area of increased contact between the Bahnaric and Katuic languages, such that languages of all branches apart from the geographically distant Munda and Nicobarese show greater similarity to Bahnaric and Katuic the closer they are to those branches, without any noticeable innovations common to Bahnaric and Katuic.
+
+He therefore takes the conservative view that the thirteen branches of Austroasiatic should be treated as equidistant on current evidence. Sidwell & Blench (2011) discuss this proposal in more detail, and note that there is good evidence for a Khasi–Palaungic node, which could also possibly be closely related to Khmuic.
+
+If this would the case, Sidwell & Blench suggest that Khasic may have been an early offshoot of Palaungic that had spread westward. Sidwell & Blench (2011) suggest Shompen as an additional branch, and believe that a Vieto-Katuic connection is worth investigating. In general, however, the family is thought to have diversified too quickly for a deeply nested structure to have developed, since Proto-Austroasiatic speakers are believed by Sidwell to have radiated out from the central Mekong river valley relatively quickly.
+
+Subsequently, Sidwell (2015a: 179) proposed that Nicobarese subgroups with Aslian, just as how Khasian and Palaungic subgroup with each other.
+
+A subsequent computational phylogenetic analysis (Sidwell 2015b) suggests that Austroasiatic branches may have a loosely nested structure rather than a completely rake-like structure, with an east–west division (consisting of Munda, Khasic, Palaungic, and Khmuic forming a western group as opposed to all of the other branches) occurring possibly as early as 7,000 years before present. However, he still considers the subbranching dubious.
+
+Integrating computational phylogenetic linguistics with recent archaeological findings, Paul Sidwell (2015c) further expanded his Mekong riverine hypothesis by proposing that Austroasiatic had ultimately expanded into Indochina from the Lingnan area of southern China, with the subsequent Mekong riverine dispersal taking place after the initial arrival of Neolithic farmers from southern China.
+
+Sidwell (2015c) tentatively suggests that Austroasiatic may have begun to split up 5,000 years B.P. during the Neolithic transition era of mainland Southeast Asia, with all the major branches of Austroasiatic formed by 4,000 B.P. Austroasiatic would have had two possible dispersal routes from the western periphery of the Pearl River watershed of Lingnan, which would have been either a coastal route down the coast of Vietnam, or downstream through the Mekong River via Yunnan. Both the reconstructed lexicon of Proto-Austroasiatic and the archaeological record clearly show that early Austroasiatic speakers around 4,000 B.P. cultivated rice and millet, kept livestock such as dogs, pigs, and chickens, and thrived mostly in estuarine rather than coastal environments.
+
+At 4,500 B.P., this "Neolithic package" suddenly arrived in Indochina from the Lingnan area without cereal grains and displaced the earlier pre-Neolithic hunter-gatherer cultures, with grain husks found in northern Indochina by 4,100 B.P. and in southern Indochina by 3,800 B.P. However, Sidwell (2015c) found that iron is not reconstructable in Proto-Austroasiatic, since each Austroasiatic branch has different terms for iron that had been borrowed relatively lately from Tai, Chinese, Tibetan, Malay, and other languages.
+
+During the Iron Age about 2,500 B.P., relatively young Austroasiatic branches in Indochina such as Vietic, Katuic, Pearic, and Khmer were formed, while the more internally diverse Bahnaric branch (dating to about 3,000 B.P.) underwent more extensive internal diversification. By the Iron Age, all of the Austroasiatic branches were more or less in their present-day locations, with most of the diversification within Austroasiatic taking place during the Iron Age.
+
+Paul Sidwell (2018) considers the Austroasiatic language family to have rapidly diversified around 4,000 years B.P. during the arrival of rice agriculture in Indochina, but notes that the origin of Proto-Austroasiatic itself is older than that date. The lexicon of Proto-Austroasiatic can be divided into an early and late stratum. The early stratum consists of basic lexicon including body parts, animal names, natural features, and pronouns, while the names of cultural items (agriculture terms and words for cultural artifacts, which are reconstructible in Proto-Austroasiatic) form part of the later stratum.
+
+Roger Blench (2017) suggests that vocabulary related to aquatic subsistence strategies (such as boats, waterways, river fauna, and fish capture techniques) can be reconstructed for Proto-Austroasiatic. Blench (2017) finds widespread Austroasiatic roots for 'river, valley', 'boat', 'fish', 'catfish sp.', 'eel', 'prawn', 'shrimp' (Central Austroasiatic), 'crab', 'tortoise', 'turtle', 'otter', 'crocodile', 'heron, fishing bird', and 'fish trap'. Archaeological evidence for the presence of agriculture in northern Indochina (northern Vietnam, Laos, and other nearby areas) dates back to only about 4,000 years ago (2,000 BC), with agriculture ultimately being introduced from further up to the north in the Yangtze valley where it has been dated to 6,000 B.P.
+
+Sidwell (2022) proposes that the locus of Proto-Austroasiatic was in the Red River Delta area about 4,000-4,500 years before present, instead of the Middle Mekong as he had previously proposed. Austroasiatic dispersed coastal maritime routes and also upstream through river valleys. Khmuic, Palaungic, and Khasic resulted from a westward dispersal that ultimately came from the Red Valley valley. Based on their current distributions, about half of all Austroasiatic branches (including Nicobaric and Munda) can be traced to coastal maritime dispersals.
+
+Hence, this points to a relatively late riverine dispersal of Austroasiatic as compared to Sino-Tibetan, whose speakers had a distinct non-riverine culture. In addition to living an aquatic-based lifestyle, early Austroasiatic speakers would have also had access to livestock, crops, and newer types of watercraft. As early Austroasiatic speakers dispersed rapidly via waterways, they would have encountered speakers of older language families who were already settled in the area, such as Sino-Tibetan.
+
+Sidwell (2018)
+Sidwell (2018) (quoted in Sidwell 2021) gives a more nested classification of Austroasiatic branches as suggested by his computational phylogenetic analysis of Austroasiatic languages using a 200-word list. Many of the tentative groupings are likely linkages. Pakanic and Shompen were not included.
+
+Possible extinct branches 
+Roger Blench (2009) also proposes that there might have been other primary branches of Austroasiatic that are now extinct, based on substrate evidence in modern-day languages.
+ Pre-Chamic languages (the languages of coastal Vietnam before the Chamic migrations). Chamic has various Austroasiatic loanwords that cannot be clearly traced to existing Austroasiatic branches (Sidwell 2006, 2007). Larish (1999) also notes that Moklenic languages contain many Austroasiatic loanwords, some of which are similar to the ones found in Chamic.
+ Acehnese substratum (Sidwell 2006). Acehnese has many basic words that are of Austroasiatic origin, suggesting that either Austronesian speakers have absorbed earlier Austroasiatic residents in northern Sumatra, or that words might have been borrowed from Austroasiatic languages in southern Vietnam – or perhaps a combination of both. Sidwell (2006) argues that Acehnese and Chamic had often borrowed Austroasiatic words independently of each other, while some Austroasiatic words can be traced back to Proto-Aceh-Chamic. Sidwell (2006) accepts that Acehnese and Chamic are related, but that they had separated from each other before Chamic had borrowed most of its Austroasiatic lexicon.
+ Bornean substrate languages (Blench 2010). Blench cites Austroasiatic-origin words in modern-day Bornean branches such as Land Dayak (Bidayuh, Dayak Bakatiq, etc.), Dusunic (Central Dusun, Visayan, etc.), Kayan, and Kenyah, noting especially resemblances with Aslian. As further evidence for his proposal, Blench also cites ethnographic evidence such as musical instruments in Borneo shared in common with Austroasiatic-speaking groups in mainland Southeast Asia. Adelaar (1995) has also noticed phonological and lexical similarities between Land Dayak and Aslian.
+ Lepcha substratum ("Rongic"). Many words of Austroasiatic origin have been noticed in Lepcha, suggesting a Sino-Tibetan superstrate laid over an Austroasiatic substrate. Blench (2013) calls this branch "Rongic" based on the Lepcha autonym Róng.
+
+Other languages with proposed Austroasiatic substrata are:
+ Jiamao, based on evidence from the register system of Jiamao, a Hlai language (Thurgood 1992). Jiamao is known for its highly aberrant vocabulary in relation to other Hlai languages.
+ Kerinci: van Reijn (1974) notes that Kerinci, a Malayic language of central Sumatra, shares many phonological similarities with Austroasiatic languages, such as sesquisyllabic word structure and vowel inventory.
+
+John Peterson (2017) suggests that "pre-Munda" ("proto-" in regular terminology) languages may have once dominated the eastern Indo-Gangetic Plain, and were then absorbed by Indo-Aryan languages at an early date as Indo-Aryan spread east. Peterson notes that eastern Indo-Aryan languages display many morphosyntactic features similar to those of Munda languages, while western Indo-Aryan languages do not.
+
+Writing systems 
+Other than Latin-based alphabets, many Austroasiatic languages are written with the Khmer, Thai, Lao, and Burmese alphabets. Vietnamese divergently had an indigenous script based on Chinese logographic writing. This has since been supplanted by the Latin alphabet in the 20th century. The following are examples of past-used alphabets or current alphabets of Austroasiatic languages.
+ Chữ Nôm
+ Khmer alphabet
+ Khom script (used for a short period in the early 20th century for indigenous languages in Laos)
+ Old Mon script
+ Mon script
+ Pahawh Hmong was once used to write Khmu, under the name "Pahawh Khmu"
+ Tai Le (Palaung, Blang)
+ Tai Tham (Blang)
+ Ol Chiki alphabet (Santali alphabet)
+ Mundari Bani (Mundari alphabet)
+ Warang Citi (Ho alphabet)
+ Sorang Sompeng alphabet (Sora alphabet)
+
+External relations
+
+Austric languages 
+
+Austroasiatic is an integral part of the controversial Austric hypothesis, which also includes the Austronesian languages, and in some proposals also the Kra–Dai languages and the Hmong–Mien languages.
+
+Hmong-Mien 
+Several lexical resemblances are found between the Hmong-Mien and Austroasiatic language families (Ratliff 2010), some of which had earlier been proposed by Haudricourt (1951). This could imply a relation or early language contact along the Yangtze.
+
+According to Cai (et al. 2011), Hmong–Mien is at least partially related to Austroasiatic but was heavily influenced by Sino-Tibetan, especially Tibeto-Burman languages.
+
+Indo-Aryan languages
+It is suggested that the Austroasiatic languages have some influence on Indo-Aryan languages including Sanskrit and middle Indo-Aryan languages. Indian linguist Suniti Kumar Chatterji pointed that a specific number of substantives in languages such as Hindi, Punjabi and Bengali were borrowed from Munda languages. Additionally, French linguist Jean Przyluski suggested a similarity between the tales from the Austroasiatic realm and the Indian mythological stories of Matsyagandha (from Mahabharata) and the Nāgas.
+
+Austroasiatic migrations and archaeogenetics
+Mitsuru Sakitani suggests that Haplogroup O1b1, which is common in Austroasiatic people and some other ethnic groups in southern China, and haplogroup O1b2, which is common in today Japanese, Koreans and some Manchu, are the carriers of early rice-agriculturalists from Indochina. Another study suggests that the haplogroup O1b1 is the major Austroasiatic paternal lineage and O1b2 the "para-Austroasiatic" lineage of the Mandchurian, Korean and Yayoi people.
+
+A 2021 study by Tagore et al. found that the proto-Austroasiatic-speakers split from an Basal-East Asian source population, native to Mainland Southeast Asia and Northeast India, which also gave rise to other East Asian-related populations, including Northeast Asians and Indigenous peoples of the Americas. The proto-Austroasiatic-speakers can be linked to the Hoabinhian material culture. From Mainland Southeast Asia, the Austroasiatic-speakers expanded into the Indian-subcontinent and Maritime Southeast Asia. There is evidence that later back migration from more northerly East Asian groups (such as Kra-Dai-speakers) merged with indigenous Southeast Asians, contributing to the fragmentation observed among modern day Austroasiatic-speakers. In the Indian subcontinent, Austroasiatic-speakers, specifically Mundari, intermixed with the local population. Furthermore they concluded that their results do not support a genetic relationship between Ancient Southeast Asian hunter-gatherers (Hoabinhians) with Papuan-related groups, as previously suggested by McColl et al. 2018, but that these Ancient Southeast Asians are characterized by Basal-East Asian ancestry. The authors finally concluded that genetics do not necessarily correspond with linguistic identity, pointing to the fragmentation of modern Austroasiatic-speakers.
+
+Larena et al. 2021 could reproduce the genetic evidence for the origin of Basal-East Asians in Mainland Southeast Asia, which are estimated to have formed about 50kya years ago, and expanded through multiple migration waves southwards and northwards. Early Austroasiatic-speakers are estimated to have originated from an lineage, which split from Ancestral East Asians between 25,000 to 15,000 years ago, and were among the first wave to replace distinct Australasian-related groups in Insular Southeast Asia. Early Austroasiatic people were found to be best represented by the Mlabri people in modern day Thailand. Proposals for Austroasiatic substratum among later Austronesian languages in Western Indonesia, noteworthy among the Dayak languages, is strengthened by genetic data, suggesting Austroasiatic-speakers were assimilated by Austronesian-speakers.
+
+A study in November 2021 (Guo et al.) found that modern East-Eurasians can be modeled from four ancestry components, which descended from a common ancestor in Mainland Southeast Asia, one being the "Ancestral Austroasiatic" component (AAA), which is more prevalent among modern Southeast Asians, and making up the exclusive ancestry among Austroasiatic-speaking Lua and Mlabri people. The early Austroasiatic-speakers are suggested to have been hunter-gatherers but became rice-agriculturalists quite early, spreading from Mainland Southeast Asia northwards to the Yangtze river, westwards into the Indian subcontinent, and southwards into Insular Southeast Asia. Evidence for these migrations are Austroasiatic loanwords related to rice-agriculture found among non-Austroasiatic languages, and the presence of Austroasiatic genetic ancestry.
+
+According to a recent genetic study, Sundanese,  Javanese, and Balinese, has almost an equal ratio of genetic marker shared between Austronesian and Austroasiatic heritages.
+
+Migration into India 
+According to Chaubey et al., "Austro-Asiatic speakers in India today are derived from dispersal from Southeast Asia, followed by extensive sex-specific admixture with local Indian populations." According to Riccio et al., the Munda people are likely descended from Austroasiatic migrants from Southeast Asia.
+
+According to Zhang et al., Austroasiatic migrations from Southeast Asia into India took place after the last Glacial maximum, circa 10,000 years ago. Arunkumar et al, suggest Austroasiatic migrations from Southeast Asia occurred into Northeast India 5.2 ± 0.6 kya and into East India 4.3 ± 0.2 kya.
+
+Notes
+
+References
+
+Sources 
+
+ Adams, K. L. (1989). Systems of numeral classification in the Mon–Khmer, Nicobarese and Aslian subfamilies of Austroasiatic. Canberra, A.C.T., Australia: Dept. of Linguistics, Research School of Pacific Studies, Australian National University. 
+ 
+ Alves, Mark J. (2015). Morphological functions among Mon-Khmer languages: beyond the basics. In N. J. Enfield & Bernard Comrie (eds.), Languages of Mainland Southeast Asia: the state of the art. Berlin: de Gruyter Mouton, 531–557.
+ Bradley, David (2012). "Languages and Language Families in China", in Rint Sybesma (ed.), Encyclopedia of Chinese Language and Linguistics.
+ Chakrabarti, Byomkes. (1994). A Comparative Study of Santali and Bengali.
+ 
+ Diffloth, Gérard. (2005). "The contribution of linguistic palaeontology and Austro-Asiatic". in Laurent Sagart, Roger Blench and Alicia Sanchez-Mazas, eds. The Peopling of East Asia: Putting Together Archaeology, Linguistics and Genetics. 77–80. London: Routledge Curzon. 
+ Filbeck, D. (1978). T'in: a historical study. Pacific linguistics, no. 49. Canberra: Dept. of Linguistics, Research School of Pacific Studies, Australian National University. 
+ Hemeling, K. (1907). Die Nanking Kuanhua. (German language)
+ Jenny, Mathias and Paul Sidwell, eds (2015). The Handbook of Austroasiatic Languages. Leiden: Brill.
+ Peck, B. M., Comp. (1988). An Enumerative Bibliography of South Asian Language Dictionaries.
+ Peiros, Ilia. 1998. Comparative Linguistics in Southeast Asia. Pacific Linguistics Series C, No. 142. Canberra: Australian National University.
+ Shorto, Harry L. edited by Sidwell, Paul, Cooper, Doug and Bauer, Christian (2006). A Mon–Khmer comparative dictionary. Canberra: Australian National University. Pacific Linguistics. 
+ Shorto, H. L. Bibliographies of Mon–Khmer and Tai Linguistics. London oriental bibliographies, v. 2. London: Oxford University Press, 1963.
+ 
+ 
+ 
+ van Driem, George. (2007). Austroasiatic phylogeny and the Austroasiatic homeland in light of recent population genetic studies. Mon-Khmer Studies, 37, 1-14.
+ Zide, Norman H., and Milton E. Barker. (1966) Studies in Comparative Austroasiatic Linguistics, The Hague: Mouton (Indo-Iranian monographs, v. 5.).
+
+Further reading 
+ 
+ Mann, Noel, Wendy Smith and Eva Ujlakyova. 2009. Linguistic clusters of Mainland Southeast Asia: an overview of the language families. Chiang Mai: Payap University.
+ 
+ 
+ Sidwell, Paul. 2016. Bibliography of Austroasiatic linguistics and related resources.
+ E. K. Brown (ed.) Encyclopedia of Languages and Linguistics. Oxford: Elsevier Press.
+ Gregory D. S. Anderson and Norman H. Zide. 2002. Issues in Proto-Munda and Proto-Austroasiatic Nominal Derivation: The Bimoraic Constraint. In Marlys A. Macken (ed.) Papers from the 10th Annual Meeting of the Southeast Asian Linguistics Society. Tempe, AZ: Arizona State University, South East Asian Studies Program, Monograph Series Press. pp. 55–74.
+
+External links 
+
+ Swadesh lists for Austro-Asiatic languages (from Wiktionary's Swadesh-list appendix)
+ Austro-Asiatic at the Linguist List MultiTree Project (not functional as of 2014): Genealogical trees attributed to Sebeok 1942, Pinnow 1959, Diffloth 2005, and Matisoff 2006
+ Mon–Khmer.com: Lectures by Paul Sidwell
+ Mon–Khmer Languages Project at SEAlang
+ Munda Languages Project at SEAlang
+ RWAAI (Repository and Workspace for Austroasiatic Intangible Heritage)
+ http://hdl.handle.net/10050/00-0000-0000-0003-66A4-2@view RWAAI Digital Archive
+ Michel Ferlus's recordings of Mon-Khmer (Austroasiatic) languages (CNRS)
+
+ 
+Agglutinative languages
+Language families
+Sino-Austronesian languages
