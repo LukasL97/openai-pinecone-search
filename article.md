@@ -100,9 +100,10 @@ without ending) and the *content*.
 ```python
 import os
 
+
 def load_documents():
     documents = []
-    documents_path = 'data'
+    documents_path = 'data_old'
     for filename in os.listdir(documents_path):
         file_path = os.path.join(documents_path, filename)
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -195,7 +196,7 @@ We use the title of the document to retrieve the document content from the disk:
 
 ```python
 def load_document_content(title):
-    documents_path = 'data'
+    documents_path = 'data_old'
     file_path = os.path.join(documents_path, title + '.txt')
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -245,6 +246,8 @@ answer = get_answer_from_openai(question)
 print(answer)
 ```
 
+### Examples
+
 Now we can ask questions about information from out documents and retrieve an answer from OpenAI.
 Using some Wikipedia articles about different topics as our example documents, we try out the following question:
 
@@ -254,6 +257,30 @@ The Pinecone index yields the vector of the document *Politics of Angola* as mos
 Using this document in our prompt enables OpenAI to answer the question correctly:
 
 > The president in the political system of Angola holds almost absolute power. They are the head of state and head of government, as well as the leader of the winning party or coalition. The president appoints and dismisses members of the government, members of various courts, the Governor and Vice-Governors of the Nacional Angolan Bank, the General-Attorney and their deputies, the Governors of the provinces, and many other key positions in the government, military, police, intelligence, and security organs. The president is also responsible for defining the policy of the country and has the power to promulgate laws and make edicts. However, the president is not directly involved in making laws.
+
+While this is already impressive, it has to be mentioned that we cheated a little, as we used a Wikipedia article
+as our document for testing the system.
+As the OpenAI model was trained on publicly available internet content, it is likely that it has seen this exact
+article and would have been able to answer the question anyway, even without receiving the document as part of the
+input prompt.
+Hence, we will have a look at what happens, if we ask about a topic that has not been seen by the OpenAI model
+before.
+
+To this end, I made up an article about the fictional chemist *Jacob Miller*, who was born in 1850, discovered a
+chemical element in 1886, which he named *Jacobium*, received the Nobel Prize for his findings in 1901, and died
+in 1932.
+You can find the article in the 
+[*data* directory of the GitHub repository](https://github.com/LukasL97/openai-pinecone-search/blob/main/data/Jacob%20Miller%20(Chemist).txt).
+The document was embedded along with all other documents and inserted into the Pinecone index.
+Now, let's have a look at what happens, if we ask about Jacob Miller:
+
+> In which year did the discoverer of the chemical element Jacobium win the nobel prize?
+
+As we would expect, the Pinecone index yields the vector of the document *Jacob Miller (Chemist)* as most similar
+to the embedded query.
+Using this document in the prompt enables the chat completion model to provide the correct answer to the question:
+
+> The discoverer of the chemical element Jacobium won the Nobel Prize in Chemistry in the year 1901.
 
 ## Conclusion
 
