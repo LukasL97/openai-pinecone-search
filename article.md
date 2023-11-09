@@ -270,7 +270,7 @@ as our document for testing the system.
 As the OpenAI model was trained on publicly available internet content, it is likely that it has seen this exact
 article and would have been able to answer the question anyway, even without receiving the document as part of the
 input prompt.
-Hence, we will have a look at what happens, if we ask about a topic that has not been seen by the OpenAI model
+Hence, we will have a look at what happens when we ask about a topic that has not been seen by the OpenAI model
 before.
 
 To this end, I made up an article about the fictional chemist *Jacob Miller*, who was born in 1850, discovered a
@@ -279,7 +279,7 @@ in 1932.
 You can find the article in the 
 [*data* directory of the GitHub repository](https://github.com/LukasL97/openai-pinecone-search/blob/main/data/Jacob%20Miller%20(Chemist).txt).
 The document was embedded along with all other documents and inserted into the Pinecone index.
-Now, let's have a look at what happens, if we ask about Jacob Miller:
+Now, let's have a look at what happens when we ask about Jacob Miller:
 
 > In which year did the discoverer of the chemical element Jacobium win the nobel prize?
 
