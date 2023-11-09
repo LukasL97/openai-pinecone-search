@@ -1,0 +1,454 @@
+The MessagePad is a discontinued series of personal digital assistant devices developed by Apple for the Newton platform in 1993.  Some electronic engineering and the manufacture of Apple's MessagePad devices was undertaken in Japan by the Sharp. The devices were based on the ARM 610 RISC processor and all featured handwriting recognition software and were developed and marketed by Apple. The devices ran the Newton OS.
+
+History 
+The development of Newton Message first began when Apple's former senior vice president of research and development, Jean-Louis Gassée; his team includes Steve Capps, co-writer of macOS Finder, and an employed engineer named Steve Sakoman. Since then, the development of the Newton Message Pad operates in secret until it was eventually revealed to the Apple Board of Directors in late 1990.
+
+When Gassee resigned from his position due to a significant disagreement with the board, seeing how his employer was treated, Sakoman also stopped developing the MessagePad on March 2, 1990. 
+
+Bill Atkinson, an Apple Executive responsible for the company's Lisa's graphical interface, invited Steve Capps, John Sculley, Andy Hertzfeld, Susan Kare, and Marc Porat to a meeting on March 11, 1990. There, they brainstormed a way of saving the MessagePad. Sculley suggested adding new features, including libraries, museums, databases, or institutional archives features, allowing customers to navigate through various window tabs or opened galleries/stacks. The Board later approved his suggestion; he then gave Newton it is official and full backing.
+
+The first MessagePad on May 29, 1992 was unveiled by Sculley at the summer Consumer Electronics Show (CES) in Chicago. Even so, Sculley caved in to pressure too early because the Newton did not officially ship for another 14 months on August 2, 1993.
+
+Over 50,000 units were sold near late November 1993, starting at the price of $900 to $1,569.
+
+Details
+
+Screen and input
+With the MessagePad 120 with Newton OS 2.0, the Newton Keyboard by Apple became available, which can also be used via the dongle on Newton devices with a Newton InterConnect port, most notably the Apple MessagePad 2000/2100 series, as well as the Apple eMate 300.
+
+Newton devices featuring Newton OS 2.1 or higher can be used with the screen turned horizontally ("landscape") as well as vertically ("portrait"). A change of a setting rotates the contents of the display by 90, 180 or 270 degrees. Handwriting recognition still works properly with the display rotated, although display calibration is needed when rotation in any direction is used for the first time or when the Newton device is reset.
+
+Handwriting recognition
+
+In initial versions (Newton OS 1.x) the handwriting recognition gave extremely mixed results for users and was sometimes inaccurate. The original handwriting recognition engine was called Calligrapher, and was licensed from a Russian company called Paragraph International. Calligrapher's design was quite sophisticated; it attempted to learn the user's natural handwriting, using a database of known words to make guesses as to what the user was writing, and could interpret writing anywhere on the screen, whether hand-printed, in cursive, or a mix of the two. By contrast, Palm Pilot's Graffiti had a less sophisticated design than Calligrapher, but was sometimes found to be more accurate and precise due to its reliance on a fixed, predefined stroke alphabet. The stroke alphabet used letter shapes which resembled standard handwriting, but which were modified to be both simple and very easy to differentiate. Palm Computing also released two versions of Graffiti for Newton devices.  The Newton version sometimes performed better and could also show strokes as they were being written as input was done on the display itself, rather than on a silkscreen area.
+
+For editing text, Newton had a very intuitive system for handwritten editing, such as scratching out words to be deleted, circling text to be selected, or using written carets to mark inserts.
+
+Later releases of the Newton operating system retained the original recognizer for compatibility, but added a hand-printed-text-only (not cursive) recognizer, called "Rosetta", which was developed by Apple, included in version 2.0 of the Newton operating system, and refined in Newton 2.1. Rosetta is generally considered a significant improvement and many reviewers, testers, and most users consider the Newton 2.1 handwriting recognition software better than any of the alternatives even 10 years after it was introduced.  Recognition and computation of handwritten horizontal and vertical formulas such as "1 + 2 =" was also under development but never released. However, users wrote similar programs which could evaluate mathematical formulas using the Newton OS Intelligent Assistant, a unique part of every Newton device.
+
+The handwriting recognition and parts of the user interface for the Newton are best understood in the context of the broad history of pen computing, which is quite extensive.
+
+A vital feature of the Newton handwriting recognition system is the modeless error correction. That is, correction done in situ without using a separate window or widget, using a minimum of gestures. If a word is recognized improperly, the user could double-tap the word and a list of alternatives would pop up in a menu under the stylus. Most of the time, the correct word will be in the list. If not, a button at the bottom of the list allows the user to edit individual characters in that word. Other pen gestures could do such things as transpose letters (also in situ). The correction popup also allowed the user to revert to the original, un-recognized letter shapes - this would be useful in note-taking scenarios if there was insufficient time to make corrections immediately. To conserve memory and storage space, alternative recognition hypotheses would not be saved indefinitely. If the user returned to a note a week later, for example, they would only see the best match. Error correction in many current handwriting systems provides such functionality but adds more steps to the process, greatly increasing the interruption to a user's workflow that a given correction requires.
+
+User interface
+
+Text could also be entered by tapping with the stylus on a small on-screen pop-up QWERTY virtual keyboard, although more layouts were developed by users. Newton devices could also accept free-hand "Sketches", "Shapes", and "Ink Text", much like a desktop computer graphics tablet. With "Shapes", Newton could recognize that the user was attempting to draw a circle, a line, a polygon, etc., and it would clean them up into perfect vector representations (with modifiable control points and defined vertices) of what the user was attempting to draw. "Shapes" and "Sketches" could be scaled or deformed once drawn. "Ink text" captured the user's free-hand writing but allowed it to be treated somewhat like recognized text when manipulating for later editing purposes ("ink text" supported word wrap, could be formatted to be bold, italic, etc.). At any time a user could also direct their Newton device to recognize selected "ink text" and turn it into recognized text (deferred recognition). A Newton note (or the notes attached to each contact in Names and each Dates calendar or to-do event) could contain any mix of interleaved text, Ink Text, Shapes, and Sketches.
+
+While the Newton offered handwriting recognition training and would clean up sketches into vector shapes, both were unreliable and required much rewriting and redrawing. The most reliable application of the Newton was collecting and organizing address and phone numbers. While handwritten messages could be stored, they could not be easily filed, sorted or searched. While the technology was a probable cause for the failure of the device (which otherwise met or exceeded expectations), the technology has been instrumental in producing the future generation of handwriting software that realizes the potential and promise that began in the development of Newton-Apple's Ink Handwriting Recognition.
+
+Connectivity
+The MessagePad 100 series of devices used Macintosh's proprietary serial ports—round Mini-DIN 8 connectors. The MessagePad 2000/2100 models (as well as the eMate 300) have a small, proprietary Newton InterConnect port. However, the development of the Newton hardware/software platform was canceled by Steve Jobs on February 27, 1998, so the InterConnect port, while itself very advanced, can only be used to connect a serial dongle. A prototype multi-purpose InterConnect device containing serial, audio in, audio out, and other ports was also discovered. In addition, all Newton devices have infrared connectivity, initially only the Sharp ASK protocol, but later also IrDA, though the Sharp ASK protocol was kept in for compatibility reasons. Unlike the Palm Pilot, all Newton devices are equipped with a standard PC Card expansion slot (two on the 2000/2100). This allows native modem and even Ethernet connectivity; Newton users have also written drivers for 802.11b wireless networking cards and ATA-type flash memory cards (including the popular CompactFlash format), as well as for Bluetooth cards. Newton can also dial a phone number through the built-in speaker of the Newton device by simply holding a telephone handset up to the speaker and transmitting the appropriate tones. Fax and printing support is also built in at the operating system level, although it requires peripherals such as parallel adapters, PCMCIA cards, or serial modems, the most notable of which is the lightweight Newton Fax Modem released by Apple in 1993. It is powered by 2 AA batteries, and can also be used with a power adapter. It provides data transfer at 2,400 bit/s, and can also send and receive fax messages at 9,600 and 4,800 bit/s respectively.
+
+Power options
+The original Apple MessagePad and MessagePad 100 used four AAA batteries. They were eventually replaced by AA batteries with the release of the Apple MessagePad 110.
+
+The use of 4 AA NiCd (MessagePad 110, 120 and 130) and 4x AA NiMH cells (MP2x00 series, eMate 300) give a runtime of up to 30 hours (MP2100 with two 20 MB Linear Flash memory PC Cards, no backlight usage) and up to 24 hours with backlight on. While adding more weight to the handheld Newton devices than AAA batteries or custom battery packs, the choice of an easily replaceable/rechargeable cell format gives the user a still unsurpassed runtime and flexibility of power supply. This, together with the flash memory used as internal storage starting with the Apple MessagePad 120 (if all cells lost their power, no data was lost due to the non-volatility of this storage), gave birth to the slogan "Newton never dies, it only gets new batteries".
+
+Later efforts and improvements
+The Apple MessagePad 2000/2100, with a vastly improved handwriting recognition system, 162 MHz StrongARM SA-110 RISC processor, Newton OS 2.1, and a better, clearer, backlit screen, attracted critical plaudits.
+
+eMate 300
+
+The eMate 300 was a Newton device in a laptop form factor offered to schools in 1997 as an inexpensive ($799 US, originally sold to education markets only) and durable computer for classroom use. However, in order to achieve its low price, the eMate 300 did not have all the speed and features of the contemporary MessagePad equivalent, the MessagePad 2000. The eMate was cancelled along with the rest of the Newton products in 1998. It is the only Newton device to use the ARM710 microprocessor (running at 25 MHz), have an integrated keyboard, use Newton OS 2.2 (officially numbered 2.1), and its batteries are officially irreplaceable, although several users replaced them with longer-lasting ones without any damage to the eMate hardware whatsoever.
+
+Prototypes
+
+Many prototypes of additional Newton devices were spotted. Most notable was a Newton tablet or "slate", a large, flat screen that could be written on. Others included a "Kids Newton" with side handgrips and buttons, "VideoPads" which would have incorporated a video camera and screen on their flip-top covers for two-way communications, the "Mini 2000" which would have been very similar to a Palm Pilot, and the NewtonPhone developed by Siemens, which incorporated a handset and a keyboard.
+
+Market reception
+Fourteen months after Sculley demoed it at the May 1992, Chicago CES, the MessagePad was first offered for sale on August 2, 1993, at the Boston Macworld Expo. The hottest item at the show, it cost $900. 50,000 MessagePads were sold in the device's first three months on the market.
+
+The original Apple MessagePad and MessagePad 100 were limited by the very short lifetime of their inadequate AAA batteries.
+
+Critics also panned the handwriting recognition that was available in the debut models, which had been trumpeted in the Newton's marketing campaign.  It was this problem that was skewered in the Doonesbury comic strips in which a written text entry is (erroneously) translated as "Egg Freckles?", as well as in the animated series The Simpsons. However, the word 'freckles' was not included in the Newton dictionary, although a user could add it themselves. Difficulties were in part caused by the long time requirements for the Calligrapher handwriting recognition software to "learn" the user's handwriting; this process could take from two weeks to two months.
+
+Another factor which limited the early Newton devices' appeal was that desktop connectivity was not included in the basic retail package, a problem that was later solved with 2.x Newton devices - these were bundled with a serial cable and the appropriate Newton Connection Utilities software.
+
+Later versions of Newton OS offered improved handwriting recognition, quite possibly a leading reason for the continued popularity of the devices among Newton users. Even given the age of the hardware and software, Newtons still demand a sale price on the used market far greater than that of comparatively aged PDAs produced by other companies. In 2006, CNET compared an Apple MessagePad 2000 to a Samsung Q1, and the Newton was declared better. In 2009, CNET compared an Apple MessagePad 2000 to an iPhone 3GS, and the Newton was declared more innovative at its time of release.
+
+A chain of dedicated Newton only stores called Newton Source existed from 1994 until 1998. Locations included New York, Los Angeles, San Francisco, Chicago and Boston. The Westwood Village, California, near U.C.L.A. featured the trademark red and yellow light bulb Newton logo in neon. The stores provided an informative educational venue to learn about the Newton platform in a hands on relaxed fashion. The stores had no traditional computer retail counters and featured oval desktops where interested users could become intimately involved with the Newton product range. The stores were a model for the later Apple Stores.
+
+Newton device models
+
+{| class="wikitable"
+|+
+!Brand
+| colspan="2" |Apple 
+|Sharp 
+|Siemens
+| colspan="2" |Apple 
+|Sharp 
+|Apple 
+|Digital Ocean 
+|Motorola
+|Harris 
+|Digital Ocean 
+| colspan="4" |Apple 
+| colspan="3" |Harris
+|Siemens
+|Schlumberger
+|-
+!Device
+|OMP (Original Newton MessagePad)
+|Newton "Dummy"
+|ExpertPad PI-7000
+|Notephone.[better source needed]
+|MessagePad 100
+|MessagePad 110
+|Sharp ExpertPad PI-7100
+|MessagePad 120
+|Tarpon
+|Marco
+|SuperTech 2000
+|Seahorse
+|MessagePad 130
+|eMate 300
+|MessagePad 2000
+|MessagePad 2100
+|Access Device 2000
+|Access Device, GPS
+|Access Device, Wireline
+|Online Terminal, also known as Online Access Device(OAD)
+|Watson 
+|-
+!Introduced
+|August 3, 1993 (US) December 1993 (Germany)
+|?
+|August 3, 1993(US),
+
+ ? (Japan)
+|1993?
+| colspan="2" |March 1994
+|April 1994
+|October 1994 (Germany), January 1995 (US)
+| colspan="2" |January 1995 (US)
+|August 1995 in the US
+|January 1996 in the US
+|March 1996
+| colspan="2" |March 1997
+|November 1997
+| colspan="3" |1998
+|Announced 1997
+|?
+|-
+!Discontinued
+| colspan="3" |March 1994
+|?
+| colspan="2" |April 1995
+|late 1994
+|June 1996
+|?
+|?
+|?
+|?
+|April 1997
+| colspan="3" |February 1998
+|
+|
+|
+|
+|
+|-
+!Code name
+|Junior
+|
+|?
+|?
+|Junior
+|Lindy
+|?
+|Gelato
+|?
+|?
+|?
+|?
+|Dante
+|?
+|Q
+|?
+|
+|
+|
+|
+|
+|-
+!Model No.
+|H1000
+|
+|?
+|?
+|H1000
+|H0059
+|?
+|H0131
+|?
+|?
+|?
+|?
+|H0196
+|H0208
+|H0136
+|H0149
+|
+|
+|
+|
+|
+|-
+!Processor
+| colspan="13" |ARM 610 (20 MHz)
+|ARM 710a (25 MHz)
+| colspan="7" |StrongARM SA-110 (162 MHz)
+|-
+!ROM
+| colspan="7" |4 MB
+| colspan="2" |4 MB (OS 1.3) or 8 MB (OS 2.0) 
+|5 MB
+|4 MB
+| colspan="5" |8 MB 
+|
+|
+|
+|
+|
+|-
+!System Memory (RAM)
+| colspan="5" |490 KB* SRAM
+|544 KB SRAM
+|490 KB* SRAM
+| colspan="2" |639/687 KB DRAM
+|544 KB SRAM
+|639 KB DRAM
+| colspan="2" |1199 KB DRAM
+|1 MB DRAM (Upgradable) 
+|1 MB DRAM 
+|4 MB DRAM 
+| colspan="3" |1 MB DRAM
+|?
+|1 MB DRAM
+|-
+!User Storage 
+| colspan="5" |150 KB* SRAM
+|480 KB SRAM
+|150 KB* SRAM
+| colspan="2" |385/1361 KB Flash RAM
+|480 KB SRAM
+|385 KB Flash RAM
+| colspan="2" |1361 KB Flash RAM
+|2 MB Flash RAM(Upgradable) 
+| colspan="5" |4 MB Flash RAM
+|?
+|4 MB Flash RAM
+|-
+!Total RAM
+| colspan="5" |640 KB 
+|1 MB 
+|640 KB
+| colspan="2" |1.0/2.0 MB 
+| colspan="2" |1 MB 
+| colspan="2" |2.5 MB 
+|3 MB (Upgradable via Internal Expansion)
+|5 MB 
+|8 MB
+| colspan="3" |5 MB
+|?
+|5 MB
+|-
+!Display
+| colspan="5" |336 × 240 (B&W)
+|320 × 240 (B&W)
+|336 × 240 (B&W)
+|320 × 240 (B&W)
+|320 × 240 (B&W) w/ backlight
+|320 × 240 (B&W)
+| colspan="3" |320 × 240 (B&W) w/ backlight
+| colspan="6" |480 × 320 grayscale (16 shades) w/ backlight
+|
+|480 × 320 greyscale (16 shades) w/ backlight
+|-
+!Newton OS version
+| colspan="3" |1.0 to 1.05, or 1.10 to 1.11
+|1.11
+| colspan="2" |1.2 or 1.3
+|1.3
+| colspan="2" |1.3 or 2.0
+| colspan="2" |1.3
+| colspan="2" |2.0
+|2.1 (2.2)
+| colspan="2" |2.1
+| colspan="5" |2.1
+|-
+!Newton OS languages
+|English or German
+|
+|English or Japanese
+|German
+|English, German or French
+|English or French
+|English or Japanese
+|English, German or French
+| colspan="4" |English
+|English or German
+| colspan="2" |English
+|English or German
+| colspan="3" |English
+|German
+|French
+|-
+!Connectivity
+| colspan="3" |RS422, LocalTalk & SHARP ASK Infrared
+|Modem and Telephone dock Attachment
+| colspan="4" |RS422, LocalTalk & SHARP ASK Infrared
+|RS422, LocalTalk & SHARP ASK Infrared
+|RS422, LocalTalk, Infrared, ARDIS Network
+|RS232, LocalTalk WLAN, V.22bis modem, Analog/Digital Cellular, CDPD, RAM, ARDIS , Trunk Radio
+|RS232, LocalTalk, CDPD, WLAN, Optional dGPS, GSM, or IR via modular attachments
+|RS422, LocalTalk & SHARP ASK Infrared
+|IrDA, headphone port, Interconnect port, LocalTalk, Audio I/O, Autodock
+|Dual-mode IR;IrDA & SHARP ASK, LocalTalk, Audio I/O, Autodock, Phone I/O
+|Dual-mode IR; IrDA & SHARP ASK, LocalTalk, Audio I/O, Autodock
+| colspan="3" |Dual-mode IR;IrDA & SHARP ASK, LocalTalk, Audio I/O, Autodock, Phone I/O
+|?
+|Dual-mode IR;IrDA & SHARP ASK, LocalTalk, Audio I/O, Autodock, Phone I/O
+|-
+!PCMCIA
+| colspan="13" |1 PCMCIA-slot II, 5v or 12v
+|1 PCMCIA-slot I/II/III, 5v
+| colspan="2" |2 PCMCIA-slot II, 5v or 12v
+| colspan="2" |1 PCMCIA-slot II, 5v or 12v
+|1 PCMCIA-slot II, 5v or 12v, 2nd slot Propriety Rado Card
+| colspan="2" |1 PCMCIA-slot II, 5v or 12v, 1 Smart Card Reader
+|-
+!Power
+| colspan="5" |4 AAA or NiCd rechargeable or external power supply
+|4 AA or NiCd rechargeable or external power supply 
+|4 AAA or NiCd rechargeable or external power supply
+|4 AA or NiCd rechargeable or external power supply
+| colspan="2" |NiCd battery pack or external power supply
+|4 AA or NiCd rechargeable or external power supply
+|NiCd battery pack or external power supply
+|4 AA or NiCd rechargeable or external power supply
+|NiMH battery pack (built-in) or external power supply
+| colspan="2" |4 AA or NiMH rechargeable or external power supply
+| colspan="3" |Custom NiMH rechargeable or external power supply
+|? Unknown, but likely external power supply
+|4 AA or NiMH rechargeable or external power supply
+|-
+!Dimensions
+(HxWxD)
+|
+|
+|
+
+(lid open)
+| colspan="2" |
+|
+
+|
+
+(lid open)
+|
+
+|
+
+|
+
+|?
+|
+|
+|
+
+| colspan="2" |
+|?
+|?
+|?
+|9 x 14.5 x 5.1 inches
+(23 x 37 x 13 cm)
+|?
+|-
+!Weight
+|
+|
+|
+with batteries installed
+|
+|
+| with batteries installed
+|
+with batteries installed
+|with batteries installed
+|
+|
+|?
+|
+|
+
+with batteries installed
+|
+| colspan="2" |
+|?
+|?
+|?
+|?
+|?
+|}
+*  Varies with Installed OS
+
+Notes: The eMate 300 actually has ROM chips silk screened with 2.2 on them. Stephanie Mak on her website discusses this:
+If one removes all patches to the eMate 300 (by replacing the ROM chip, and then putting in the original one again, as the eMate and the MessagePad 2000/2100 devices erase their memory completely after replacing the chip), the result will be the Newton OS saying that this is version 2.2.00. Also, the Original MessagePad and the MessagePad 100 share the same model number, as they only differ in the ROM chip version. (The OMP has OS versions 1.0 to 1.05, or 1.10 to 1.11, while the MP100 has 1.3 that can be upgraded with various patches.)
+
+Other uses
+
+There were a number of projects that used the Newton as a portable information device in cultural settings such as museums. For example, Visible Interactive created a walking tour in San Francisco's Chinatown but the most significant effort took place in Malaysia at the Petronas Discovery Center, known as Petrosains.
+
+In 1995, an exhibit design firm, DMCD Inc., was awarded the contract to design a new  science museum in the Petronas Towers in Kuala Lumpur. A major factor in the award was the concept that visitors would use a Newton device to access additional information, find out where they were in the museum, listen to audio, see animations, control robots and other media, and to bookmark information for printout at the end of the exhibit.
+
+The device became known as the ARIF, a Malay word for "wise man" or "seer" and it was also an acronym for A Resourceful Informative Friend. Some 400 ARIFS were installed and over 300 are still in use today.  The development of the ARIF system was extremely complex and required a team of hardware and software engineers, designers, and writers. ARIF is an ancestor of the PDA systems used in museums today and it boasted features that have not been attempted since.
+
+Anyway & Company firm was involved with the Petronas Discovery Center project back in 1998 and NDAs were signed which prevents getting to know more information about this project.  It was confirmed that they purchased of MP2000u or MP2100's by this firm on the behalf of the project under the name of "Petrosains Project Account". By 1998 they had invested heavily into the R&D of this project with the Newton at the center. After Apple officially cancelled the Newton in 1998 they had to acquire as many Newtons as possible for this project. It was estimated initially 1000 Newtons, but later readjusted the figure to possibly 750 Newtons. They placed an “Internet Call” for Newtons. They purchased them in large and small quantities.
+
+The Newton was also used in healthcare applications, for example in collecting data directly from patients. Newtons were used as electronic diaries, with patients entering their symptoms and other information concerning their health status on a daily basis. The compact size of the device and its ease of use made it possible for the electronic diaries to be carried around and used in the patients' everyday life setting. This was an early example of electronic patient-reported outcomes (ePRO)
+
+See also
+ Newton (platform)
+ Newton OS
+ eMate 300
+ NewtonScript
+ Orphaned technology
+ Pen computing
+
+References
+
+Bibliography
+ Apple's press release on the debut of the MessagePad 2100
+ Apple's overview of features & limitations of Newton Connection Utilities
+ Newton overview at Newton Source archived from Apple
+ Newton FAQ
+ Pen Computing's First Look at Newton OS 2.0
+ Newton Gallery
+ Birth of the Newton
+ The Newton Hall of Fame: People behind the Newton
+ Pen Computing's Why did Apple kill the Newton?
+ Pen Computing's Newton Notes column archive
+ A.I. Magazine article by Yaeger on Newton HWR design, algorithms, & quality and associated slides
+ Info on Newton HWR from Apple's HWR Technical Lead
+
+External links
+
+Additional resources and information
+ Defying Gravity: The Making of Newton, by Kounalakis & Menuez (Hardcover)
+ Hardcover: 192 pages
+ Publisher: Beyond Words Publishing (October 1993)
+ 
+ 
+ 
+ Complete Developer's manual for the StrongARM SA-110
+ Beginner's overview of the StrongARM SA-110 Microprocessor
+
+Reviews
+ MessagePad 2000 review at "The History and Macintosh Society"
+ Prof. Wittmann's collection of Newton & MessagePad reviews
+
+Apple Newton
+Products introduced in 1993
+Apple Inc. personal digital assistants

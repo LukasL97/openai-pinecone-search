@@ -1,0 +1,23 @@
+In organic chemistry, hydrocarbons (compounds composed solely of carbon and hydrogen) are divided into two classes: aromatic compounds and aliphatic compounds (; G. aleiphar, fat, oil). Aliphatic compounds can be saturated, like hexane, or unsaturated, like hexene and hexyne. Open-chain compounds, whether straight or branched, and which contain no rings of any type, are always aliphatic. Cyclic compounds can be aliphatic if they are not aromatic.
+
+Structure 
+
+Aliphatic compounds can be saturated, joined by single bonds (alkanes), or unsaturated, with double bonds (alkenes) or triple bonds (alkynes). Besides hydrogen, other elements can be bound to the carbon chain, the most common being oxygen, nitrogen, sulfur, and chlorine. 
+
+The least complex aliphatic compound is methane (CH4).
+
+Properties 
+
+Most aliphatic compounds are flammable, allowing the use of hydrocarbons as fuel, such as methane in Bunsen burners and as liquefied natural gas (LNG), and ethyne (acetylene) in welding.
+
+Examples of aliphatic compounds / non-aromatic 
+The most important aliphatic compounds are:
+
+ n-, iso- and cyclo-alkanes (saturated hydrocarbons)
+ n-, iso- and cyclo-alkenes and -alkynes (unsaturated hydrocarbons).
+
+Important examples of low-molecular aliphatic compounds can be found in the list below (sorted by the number of carbon-atoms):
+
+References
+
+Organic compounds

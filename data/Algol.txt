@@ -1,0 +1,72 @@
+Algol , designated Beta Persei (β Persei, abbreviated Beta Per, β Per), known colloquially as the Demon Star, is a bright multiple star in the constellation of Perseus and one of the first non-nova variable stars to be discovered.
+
+Algol is a three-star system, consisting of Beta Persei Aa1, Aa2, and Ab – in which the hot luminous primary β Persei Aa1 and the larger, but cooler and fainter, β Persei Aa2 regularly pass in front of each other, causing eclipses. Thus Algol's magnitude is usually near-constant at 2.1, but regularly dips to 3.4 every 2.86 days during the roughly 10-hour-long partial eclipses. The secondary eclipse when the brighter primary star occults the fainter secondary is very shallow and can only be detected photoelectrically.
+
+Algol gives its name to its class of eclipsing variable, known as Algol variables.
+
+Observation history
+
+An ancient Egyptian calendar of lucky and unlucky days composed some 3,200 years ago is said to be the oldest historical documentation of the discovery of Algol.
+
+The association of Algol with a demon-like creature (Gorgon in the Greek tradition, ghoul in the Arabic tradition) suggests that its variability was known long before the 17th century, but there is still no indisputable evidence for this. The Arabic astronomer al-Sufi said nothing about any variability of the star in his Book of Fixed Stars published c.964.
+
+The variability of Algol was noted in 1667 by Italian astronomer Geminiano Montanari, but the periodic nature of its variations in brightness was not recognized until more than a century later, when the British amateur astronomer John Goodricke also proposed a mechanism for the star's variability. In May 1783, he presented his findings to the Royal Society, suggesting that the periodic variability was caused by a dark body passing in front of the star (or else that the star itself has a darker region that is periodically turned toward the Earth). For his report he was awarded the Copley Medal.
+
+In 1881, the Harvard astronomer Edward Charles Pickering presented evidence that Algol was actually an eclipsing binary. This was confirmed a few years later, in 1889, when the Potsdam astronomer Hermann Carl Vogel found periodic doppler shifts in the spectrum of Algol, inferring variations in the radial velocity of this binary system. Thus Algol became one of the first known spectroscopic binaries. Joel Stebbins at the University of Illinois Observatory used an early selenium cell photometer to produce the first-ever photoelectric study of a variable star. The light curve revealed the second minimum and the reflection effect between the two stars.
+Some difficulties in explaining the observed spectroscopic features led to the conjecture that a third star may be present in the system; four decades later this conjecture was found to be correct.
+
+Listed are the first eclipse dates and times of each month; all times in UT.
+β Persei Aa2 eclipses β Persei Aa1 every 2.867321 days (2 days 20 hours 49 min); therefore keep adding that much to each date and time to get the following eclipses. For example, the Jan 3, 21h, eclipse will yield consecutive eclipse times on Jan 6, 18h, then Jan 9, 15h, then Jan 12, 12h, etc. (all times approximate).
+
+System
+ 
+Algol is a multiple-star system with three confirmed and two suspected stellar components. From the point of view of the Earth, Algol Aa1 and Algol Aa2 form an eclipsing binary because their orbital plane contains the  line of sight to the Earth. The eclipsing binary pair is separated by only 0.062 astronomical units (au) from each other, whereas the third star in the system (Algol Ab) is at an average distance of 2.69 au from the pair, and the mutual orbital period of the trio is 681 Earth days. The total mass of the system is about 5.8 solar masses, and the mass ratios of Aa1, Aa2, and Ab are about 4.5 to 1 to 2.
+
+The three components of the bright triple star used to be, and still sometimes are, referred to as β Per A, B, and C.  The Washington Double Star Catalog lists them as Aa1, Aa2, and Ab, with two very faint stars B and C about one arcmin distant.  A further five faint stars are also listed as companions.
+
+Studies of Algol led to the Algol paradox in the theory of stellar evolution: although components of a binary star form at the same time, and massive stars evolve much faster than the less massive stars, the more massive component Algol Aa1 is still in the main sequence, but the less massive Algol Aa2 is a subgiant star at a later evolutionary stage. The paradox can be solved by mass transfer: when the more massive star became a subgiant, it filled its Roche lobe, and most of the mass was transferred to the other star, which is still in the main sequence. In some binaries similar to Algol, a gas flow can be seen. The gas flow between the primary and secondary stars in Algol has been imaged using Doppler Tomography.
+
+This system also exhibits x-ray and radio wave flares. The x-ray flares are thought to be caused by the magnetic fields of the A and B components interacting with the mass transfer. The radio-wave flares might be created by magnetic cycles similar to those of sunspots, but because the magnetic fields of these stars are up to ten times stronger than the field of the Sun, these radio flares are more powerful and more persistent. The secondary component was identified as the radio emitting source in Algol using Very-long-baseline interferometry by Lestrade and co-authors.
+
+Magnetic activity cycles in the chromospherically active secondary component induce changes in its radius of gyration that have been linked to recurrent orbital period variations on the order of  ≈ 10−5 via the Applegate mechanism. Mass transfer between the components is small in the Algol system but could be a significant source of period change in other Algol-type binaries.
+
+Algol is about 92.8 light-years from the Sun, but about 7.3 million years ago it passed within 9.8 light-years of the Solar System and its apparent magnitude was about −2.5, which is considerably brighter than the star Sirius is today. Because the total mass of the Algol system is about 5.8 solar masses, at the closest approach this might have given enough gravity to perturb the Oort cloud of the Solar System somewhat and hence increase the number of comets entering the inner Solar System. However, the actual increase in net cometary collisions is thought to have been quite small.
+
+Names
+
+Beta Persei is the star's Bayer designation. The name Algol derives from Arabic  raʾs al-ghūl : head (raʾs) of the ogre (al-ghūl) (see "ghoul"). The English name Demon Star was taken from the Arabic name. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Algol for this star. It is so entered on the IAU Catalog of Star Names.
+
+In Hebrew folklore, Algol was called Rōsh ha Sāṭān or "Satan's Head", as stated by Edmund Chilmead, who called it "Divels head" or Rosch hassatan. A Latin name for Algol from the 16th century was Caput Larvae or "the Spectre's Head". Hipparchus and Pliny made this a separate, though connected, constellation.
+
+In Chinese,  (), meaning Mausoleum, refers to an asterism consisting of β Persei, 9 Persei, τ Persei, ι Persei, κ Persei, ρ Persei, 16 Persei and 12 Persei. Consequently, the Chinese name for β Persei itself is  (, English: The Fifth Star of Mausoleum.). According to R.H. Allen the star bore the grim name of Tseih She  (), meaning "Piled up Corpses" but this appears to be a misidentification, and Dié Shī is correctly π Persei, which is inside the Mausoleum.
+
+Cultural significance
+
+Historically, the star has received a strong association with bloody violence across a wide variety of cultures. In the Tetrabiblos, the 2nd-century astrological text of the Alexandrian astronomer Ptolemy, Algol is referred to as "the Gorgon of Perseus" and associated with death by decapitation: a theme which mirrors the myth of the hero Perseus's victory over the snake-haired Gorgon Medusa. In the astrology of fixed stars, Algol is considered one of the unluckiest stars in the sky, and was listed as one of the 15 Behenian stars.
+
+See also
+ Jaana Toivari-Viitala, egyptologist who contributed to understanding Ancient Egypt and the star
+
+References
+
+External links
+
+ 
+ 
+ 
+ 
+
+Algol variables
+Persei, Beta
+B-type main-sequence stars
+Persei, 26
+019356
+014576
+K-type subgiants
+Perseus (constellation)
+Algol
+Triple star systems
+Astronomical objects known since antiquity
+0936
+BD+40 0673
+Am stars

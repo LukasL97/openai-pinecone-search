@@ -1,0 +1,102 @@
+In geometry, an n-gonal antiprism or n-antiprism is a polyhedron composed of two parallel direct copies (not mirror images) of an n-sided polygon, connected by an alternating band of 2n triangles.
+
+Antiprisms are a subclass of prismatoids, and are a (degenerate) type of snub polyhedron. 
+
+Antiprisms are similar to prisms, except that the bases are twisted relatively to each other, and that the side faces (connecting the bases) are 2n triangles, rather than n quadrilaterals.
+
+History 
+At the intersection of modern-day graph theory and coding theory, the triangulation of a set of points have interested mathematicians since Isaac Newton, who fruitlessly sought a mathematical proof of the kissing number problem in 1694. The existence of antiprisms was discussed and their name was coined by Johannes Kepler, though it is possible that they were previously known to Archimedes, as they satisfy the same conditions on faces and on vertices as the Archimedean solids. According to Ericson and Zinoviev, HSM Coxeter (1907-2003) wrote at length on the topic, and was among the first to apply the mathematics of Victor Schlegel to this field.
+
+Knowledge in this field is "quite incomplete" and "was obtained fairly recently", ie in the 20th century. For example, as of 2001 it was proven for only a limited number of non-trivial cases that the mathematically optimal in the sense of minimizing the Cartesian distance between any two points on the set: in 1943 by László Fejes Tóth for 3, 4, 6 and 12 points; in 1951 by Schütte and van Der Waerden for 5, 7, 8, 9 points; in 1965 by Danzer for 10 and 11 points; and in 1961 by Robinson for 24 points.
+
+The chemical structure of binary compounds has been remarked to be in the family of antiprisms; especially those of the family of boron hydrides in 1975, and carboranes because they are isoelectronic. This is a mathematically real conclusion reached by studies of X-ray diffraction patterns, and stems from the 1971 work of Kenneth Wade, the nominative source for Wade's rules of Polyhedral skeletal electron pair theory.
+
+Rare earth metals such as the lanthanides form antiprismal compounds with some of the halides or some of the iodides. The study of crystallography is useful here. Some lanthanides, when arranged in peculiar antiprismal structures with chlorine and water, can form molecule-based magnets.
+
+Right antiprism 
+For an antiprism with regular n-gon bases, one usually considers the case where these two copies are twisted by an angle of  degrees.
+
+The axis of a regular polygon is the line perpendicular to the polygon plane and lying in the polygon centre.
+
+For an antiprism with congruent regular n-gon bases, twisted by an angle of  degrees, more regularity is obtained if the bases have the same axis: are coaxial; i.e. (for non-coplanar bases): if the line connecting the base centers is perpendicular to the base planes. Then, the antiprism is called a right antiprism, and its 2n side faces are isosceles triangles.
+
+Uniform antiprism 
+A uniform antiprism has two congruent regular n-gon base faces, and 2n equilateral triangles as side faces.
+
+Uniform antiprisms form an infinite class of vertex-transitive polyhedra, as do uniform prisms. For , we have the regular tetrahedron as a digonal antiprism (degenerate antiprism); for , the regular octahedron as a triangular antiprism (non-degenerate antiprism).
+
+The dual polyhedra of the antiprisms are the trapezohedra.
+
+Schlegel diagrams
+
+Cartesian coordinates 
+Cartesian coordinates for the vertices of a right antiprism (i.e. with regular n-gon bases and isosceles side faces) are
+
+with k ranging from 0 to 2n – 1;
+
+if the triangles are equilateral, then
+
+Volume and surface area 
+Let a be the edge-length of a uniform antiprism; then the volume is
+
+and the surface area is
+
+Related polyhedra 
+There are an infinite set of truncated antiprisms, including a lower-symmetry form of the truncated octahedron (truncated triangular antiprism). These can be alternated to create snub antiprisms, two of which are Johnson solids, and the snub triangular antiprism is a lower symmetry form of the icosahedron.
+
+Symmetry 
+The symmetry group of a right n-antiprism (i.e. with regular bases and isosceles side faces) is Dnd of order 4n, except in the cases of:
+n = 2: the regular tetrahedron, which has the larger symmetry group Td of order 24 = 3×(4×2), which has three versions of D2d as subgroups;
+
+n = 3: the regular octahedron, which has the larger symmetry group Oh of order 48 = 4×(4×3), which has four versions of D3d as subgroups.
+
+The symmetry group contains inversion if and only if n is odd. 
+
+The rotation group is Dn of order 2n, except in the cases of:
+n = 2: the regular tetrahedron, which has the larger rotation group T of order 12 = 3×(2×2), which has three versions of D2 as subgroups;
+
+n = 3: the regular octahedron, which has the larger rotation group O of order 24 = 4×(2×3), which has four versions of D3 as subgroups.
+
+Star antiprism 
+
+Uniform star antiprisms are named by their star polygon bases, {p/q}, and exist in prograde and in retrograde (crossed) solutions. Crossed forms have intersecting vertex figures, and are denoted by "inverted" fractions: p/(p – q) instead of p/q; example: 5/3 instead of 5/2.
+
+A right star antiprism has two congruent coaxial regular convex or star polygon base faces, and 2n isosceles triangle side faces.
+
+Any star antiprism with regular convex or star polygon bases can be made a right star antiprism (by translating and/or twisting one of its bases, if necessary).
+
+In the retrograde forms but not in the prograde forms, the triangles joining the convex or star bases intersect the axis of rotational symmetry. Thus:
+
+Retrograde star antiprisms with regular convex polygon bases cannot have all equal edge lengths, so cannot be uniform. "Exception": a retrograde star antiprism with equilateral triangle bases (vertex configuration: 3.3/2.3.3) can be uniform; but then, it has the appearance of an equilateral triangle: it is a degenerate star polyhedron.
+
+Similarly, some retrograde star antiprisms with regular star polygon bases cannot have all equal edge lengths, so cannot be uniform. Example: a retrograde star antiprism with regular star 7/5-gon bases (vertex configuration: 3.3.3.7/5) cannot be uniform.
+
+Also, star antiprism compounds with regular star p/q-gon bases can be constructed if p and q have common factors. Example: a star 10/4-antiprism is the compound of two star 5/2-antiprisms.
+
+See also 
+Apeirogonal antiprism
+Rectified antiprism
+Grand antiprism – a four-dimensional polytope
+One World Trade Center, a building consisting primarily of an elongated square antiprism
+Skew polygon
+
+References
+
+Bibliography
+ Chapter 2: Archimedean polyhedra, prisma and antiprisms
+
+External links 
+
+Nonconvex Prisms and Antiprisms
+Paper models of prisms and antiprisms
+
+Uniform polyhedra
+Prismatoid polyhedra
+Topological graph theory
+Graph drawing
+Coxeter groups
+Elementary geometry
+Polyhedra
+Polytopes
+Triangulation (geometry)
+Knot invariants

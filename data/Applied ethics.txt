@@ -1,0 +1,42 @@
+Applied ethics refers to the practical application of moral considerations. It is ethics with respect to real-world actions and their moral considerations in the areas of private and public life, the professions, health, technology, law, and leadership. For example, the bioethics community is concerned with identifying the correct approach to moral issues in the life sciences, such as euthanasia, the allocation of scarce health resources, or the use of human embryos in research. Environmental ethics is concerned with ecological issues such as the responsibility of government and corporations to clean up pollution. Business ethics includes questions regarding the duties or duty of 'whistleblowers' to the general public or their loyalty to their employers.
+
+Applied ethics has expanded the study of ethics beyond the realms of academic philosophical discourse. The field of applied ethics, as it appears today, emerged from debate surrounding rapid medical and technological advances in the early 1970s and is now established as a subdiscipline of moral philosophy. However, applied ethics is, by its very nature, a multi-professional subject because it requires specialist understanding of the potential ethical issues in fields like medicine, business or information technology. Nowadays, ethical codes of conduct exist in almost every profession.
+
+An applied ethics approach to the examination of moral dilemmas can take many different forms but one of the most influential and most widely utilised approaches in bioethics and health care ethics is the four-principle approach developed by Tom Beauchamp and James Childress. The four-principle approach, commonly termed principlism, entails consideration and application of four prima facie ethical principles: autonomy, non-maleficence, beneficence, and justice.
+
+Underpinning theory
+Applied ethics is distinguished from normative ethics, which concerns standards for right and wrong behavior, and from meta-ethics, which concerns the nature of ethical properties, statements, attitudes, and judgments.
+
+Whilst these three areas of ethics appear to be distinct they are also interrelated. The use of an applied ethics approach often draws upon certain normative ethical theories like the following:
+
+ Consequentialist ethics, or theories holding that normative properties of acts depend only on consequences. The paradigm consequentialist family of theories is utilitarianism, which holds that whether an act is morally right depends on whether that act maximizes some sort of net good. This theory's main developments came from Jeremy Bentham and John Stuart Mill who distinguished between an act and rule utilitarianist morality. Later developments have also adjusted the theory, most notably Henry Sidgwick who introduced the idea of motive or intent in morality, and Peter Singer who introduced the idea of preference in moral decision making. 
+ Deontological ethics, notions based on 'rules' i.e. that there is an obligation to perform the 'right' action, regardless of actual consequences. This approach is epitomized by Immanuel Kant's notion of the Categorical Imperative, which was the centre to Kant's ethical theory based on duty. Another key deontological theory is Natural Law, which was heavily developed by Thomas Aquinas and is an important part of the Catholic Church's teaching on Morals. Threshold deontology holds that rules ought to govern up to a point despite adverse consequences; but when the consequences become so dire that they cross a stipulated threshold, consequentialism takes over.
+ Virtue ethics, derived from Aristotle's and Confucius's notions, which asserts that the right action will be that chosen by a suitably 'virtuous' agent.
+
+Sometimes, these normative ethical theories clash which poses challenges when trying to resolve real-world ethical dilemmas. One approach which attempts to overcome the seemingly impossible divide between deontology and utilitarianism (of which the divide is caused by the opposite takings of an absolute and relativist moral view) is case-based reasoning, also known as casuistry. Casuistry does not begin with theory, rather it starts with the immediate facts of a real and concrete case. While casuistry makes use of ethical theory, it does not view ethical theory as the most important feature of moral reasoning. Casuists, like Albert Jonsen and Stephen Toulmin (The Abuse of Casuistry 1988), challenge the traditional paradigm of applied ethics. Instead of starting from theory and applying theory to a particular case, casuists start with the particular case itself and then ask what morally significant features (including both theory and practical considerations) ought to be considered for that particular case. In their observations of medical ethics committees, Jonsen and Toulmin note that a consensus on particularly problematic moral cases often emerges when participants focus on the facts of the case, rather than on ideology or theory. Thus, a Rabbi, a Catholic priest, and an agnostic might agree that, in this particular case, the best approach is to withhold extraordinary medical care, while disagreeing on the reasons that support their individual positions. By focusing on cases and not on theory, those engaged in moral debate increase the possibility of agreement.
+
+See also
+
+Bioethics
+Business ethics
+Effective altruism
+Ethical codes
+Ethics
+Medical ethics
+Outline of ethics
+Philosophy
+Precautionary principle
+
+References
+
+Further reading
+ 
+  (monograph)
+
+External links
+
+ 
+ 
+
+ 
+Ethics

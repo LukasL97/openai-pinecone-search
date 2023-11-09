@@ -1,0 +1,207 @@
+An axiom, postulate, or assumption is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. The word comes from the Ancient Greek word  (), meaning 'that which is thought worthy or fit' or 'that which commends itself as evident'.
+
+The term has subtle differences in definition when used in the context of different fields of study. As defined in classic philosophy, an axiom is a statement that is so evident or well-established, that it is accepted without controversy or question. As used in modern logic, an axiom is a premise or starting point for reasoning.
+ 
+As used in mathematics, the term axiom is used in two related but distinguishable senses: "logical axioms" and "non-logical axioms". Logical axioms are usually statements that are taken to be true within the system of logic they define and are often shown in symbolic form (e.g., (A and B) implies A), while non-logical axioms (e.g., ) are actually substantive assertions about the elements of the domain of a specific mathematical theory (such as arithmetic).
+
+When used in the latter sense, "axiom", "postulate", and "assumption" may be used interchangeably. In most cases, a non-logical axiom is simply a formal logical expression used in deduction to build a mathematical theory, and might or might not be self-evident in nature (e.g., parallel postulate in Euclidean geometry). To axiomatize a system of knowledge is to show that its claims can be derived from a small, well-understood set of sentences (the axioms), and there may be multiple ways to axiomatize a given mathematical domain.
+
+Any axiom is a statement that serves as a starting point from which other statements are logically derived. Whether it is meaningful (and, if so, what it means) for an axiom to be "true" is a subject of debate in the philosophy of mathematics.
+
+Etymology
+The word axiom comes from the Greek word  (axíōma), a verbal noun from the verb  (axioein), meaning "to deem worthy", but also "to require", which in turn comes from  (áxios), meaning "being in balance", and hence "having (the same) value (as)", "worthy", "proper". Among the ancient Greek philosophers an axiom was a claim which could be seen to be self-evidently true without any need for proof.
+
+The root meaning of the word postulate is to "demand"; for instance, Euclid demands that one agree that some things can be done (e.g., any two points can be joined by a straight line).
+
+Ancient geometers maintained some distinction between axioms and postulates. While commenting on Euclid's books, Proclus remarks that "Geminus held that this [4th] Postulate should not be classed as a postulate but as an axiom, since it does not, like the first three Postulates, assert the possibility of some construction but expresses an essential property." Boethius translated 'postulate' as petitio and called the axioms  notiones communes but in later manuscripts this usage was not always strictly kept.
+
+Historical development
+
+Early Greeks
+The logico-deductive method whereby conclusions (new knowledge) follow from premises (old knowledge) through the application of sound arguments (syllogisms, rules of inference) was developed by the ancient Greeks, and has become the core principle of modern mathematics. Tautologies excluded, nothing can be deduced if nothing is assumed. Axioms and postulates are thus the basic assumptions underlying a given body of deductive knowledge. They are accepted without demonstration. All other assertions (theorems, in the case of mathematics) must be proven with the aid of these basic assumptions. However, the interpretation of mathematical knowledge has changed from ancient times to the modern, and consequently the terms axiom and postulate hold a slightly different meaning for the present day mathematician, than they did for Aristotle and Euclid.
+
+The ancient Greeks considered geometry as just one of several sciences, and held the theorems of geometry on par with scientific facts. As such, they developed and used the logico-deductive method as a means of avoiding error, and for structuring and communicating knowledge. Aristotle's posterior analytics is a definitive exposition of the classical view.
+
+An "axiom", in classical terminology, referred to a self-evident assumption common to many branches of science. A good example would be the assertion that When an equal amount is taken from equals, an equal amount results.
+
+At the foundation of the various sciences lay certain additional hypotheses that were accepted without proof. Such a hypothesis was termed a postulate. While the axioms were common to many sciences, the postulates of each particular science were different. Their validity had to be established by means of real-world experience. Aristotle warns that the content of a science cannot be successfully communicated if the learner is in doubt about the truth of the postulates.
+
+The classical approach is well-illustrated by Euclid's Elements, where a list of postulates is given (common-sensical geometric facts drawn from our experience), followed by a list of "common notions" (very basic, self-evident assertions).
+
+Postulates
+ It is possible to draw a straight line from any point to any other point.
+ It is possible to extend a line segment continuously in both directions.
+ It is possible to describe a circle with any center and any radius.
+ It is true that all right angles are equal to one another.
+ ("Parallel postulate") It is true that, if a straight line falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, intersect on that side on which are the angles less than the two right angles.
+
+Common notions
+ Things which are equal to the same thing are also equal to one another.
+ If equals are added to equals, the wholes are equal.
+ If equals are subtracted from equals, the remainders are equal.
+ Things which coincide with one another are equal to one another.
+ The whole is greater than the part.
+
+Modern development
+A lesson learned by mathematics in the last 150 years is that it is useful to strip the meaning away from the mathematical assertions (axioms, postulates, propositions, theorems) and definitions. One must concede the need for primitive notions, or undefined terms or concepts, in any study. Such abstraction or formalization makes mathematical knowledge more general, capable of multiple different meanings, and therefore useful in multiple contexts. Alessandro Padoa, Mario Pieri, and Giuseppe Peano were pioneers in this movement.
+
+Structuralist mathematics goes further, and develops theories and axioms (e.g. field theory, group theory, topology, vector spaces) without any particular application in mind. The distinction between an "axiom" and a "postulate" disappears. The postulates of Euclid are profitably motivated by saying that they lead to a great wealth of geometric facts. The truth of these complicated facts rests on the acceptance of the basic hypotheses. However, by throwing out Euclid's fifth postulate, one can get theories that have meaning in wider contexts (e.g., hyperbolic geometry). As such, one must simply be prepared to use labels such as "line" and "parallel" with greater flexibility. The development of hyperbolic geometry taught mathematicians that it is useful to regard postulates as purely formal statements, and not as facts based on experience.
+
+When mathematicians employ the field axioms, the intentions are even more abstract. The propositions of field theory do not concern any one particular application; the mathematician now works in complete abstraction. There are many examples of fields; field theory gives correct knowledge about them all.
+
+It is not correct to say that the axioms of field theory are "propositions that are regarded as true without proof." Rather, the field axioms are a set of constraints. If any given system of addition and multiplication satisfies these constraints, then one is in a position to instantly know a great deal of extra information about this system.
+
+Modern mathematics formalizes its foundations to such an extent that mathematical theories can be regarded as mathematical objects, and mathematics itself can be regarded as a branch of logic. Frege, Russell, Poincaré, Hilbert, and Gödel are some of the key figures in this development.
+
+Another lesson learned in modern mathematics is to examine purported proofs carefully for hidden assumptions.
+
+In the modern understanding, a set of axioms is any collection of formally stated assertions from which other formally stated assertions follow – by the application of certain well-defined rules. In this view, logic becomes just another formal system. A set of axioms should be consistent; it should be impossible to derive a contradiction from the axioms. A set of axioms should also be non-redundant; an assertion that can be deduced from other axioms need not be regarded as an axiom.
+
+It was the early hope of modern logicians that various branches of mathematics, perhaps all of mathematics, could be derived from a consistent collection of basic axioms. An early success of the formalist program was Hilbert's formalization of Euclidean geometry, and the related demonstration of the consistency of those axioms.
+
+In a wider context, there was an attempt to base all of mathematics on Cantor's set theory. Here, the emergence of Russell's paradox and similar antinomies of naïve set theory raised the possibility that any such system could turn out to be inconsistent.
+
+The formalist project suffered a decisive setback, when in 1931 Gödel showed that it is possible, for any sufficiently large set of axioms (Peano's axioms, for example) to construct a statement whose truth is independent of that set of axioms. As a corollary, Gödel proved that the consistency of a theory like Peano arithmetic is an unprovable assertion within the scope of that theory.
+
+It is reasonable to believe in the consistency of Peano arithmetic because it is satisfied by the system of natural numbers, an infinite but intuitively accessible formal system. However, at present, there is no known way of demonstrating the consistency of the modern Zermelo–Fraenkel axioms for set theory. Furthermore, using techniques of forcing (Cohen) one can show that the continuum hypothesis (Cantor) is independent of the Zermelo–Fraenkel axioms. Thus, even this very general set of axioms cannot be regarded as the definitive foundation for mathematics.
+
+Other sciences
+Experimental sciences - as opposed to mathematics and logic - also have general founding assertions from which a deductive reasoning can be built so as to express propositions that predict properties - either still general or much more specialized to a specific experimental context. For instance, Newton's laws in classical mechanics, Maxwell's equations in classical electromagnetism, Einstein's equation in general relativity, Mandel's laws of genetics, Darwin's Natural selection law, etc. These founding assertions are usually called principles or postulates so as to distinguish from mathematical axioms. 
+
+As a matter of facts, the role of axioms in mathematics and postulates in experimental sciences is different. In mathematics one neither "proves" nor "disproves" an axiom. A set of mathematical axioms gives a set of rules that fix a conceptual realm, in which the theorems logically follow. In contrast, in experimental sciences, a set of postulates shall allow deducing results that match or do not match experimental results. If postulates do not allow deducing experimental predictions, they do not set a scientific conceptual framework and have to be completed or made more accurate. If the postulates allow deducing predictions of experimental results, the comparison with experiments allows falsifying (falsified) the theory that the postulates install. A theory is considered valid as long as it has not been falsified. 
+
+Now, the transition between the mathematical axioms and  scientific postulates is always slightly blurred, especially in physics. This is due to the heavy use of mathematical tools to support the physical theories. For instance, the introduction of Newton's laws rarely establishes as a prerequisite neither Euclidian geometry or differential calculus that they imply. It became more apparent when Albert Einstein first introduced special relativity where the invariant quantity is no more the Euclidian length  (defined as ) > but the Minkowski spacetime interval  (defined as ), and then general relativity where flat Minkowskian geometry is replaced with pseudo-Riemannian geometry on curved manifolds.
+
+In quantum physics, two sets of postulates have coexisted for some time, which provide a very nice example of falsification. The 'Copenhagen school' (Niels Bohr, Werner Heisenberg, Max Born) developed an operational approach with a complete mathematical formalism that involves the description of quantum system by vectors ('states') in a separable Hilbert space, and physical quantities as linear operators that act in this Hilbert space. This approach is fully falsifiable and has so far produced the most accurate predictions in physics. But it has the unsatisfactory aspect of not allowing answers to questions one would naturally ask. For this reason, another 'hidden variables' approach was developed for some time by Albert Einstein, Erwin Schrödinger, David Bohm. It was created so as to try to give deterministic explanation to phenomena such as entanglement. This approach assumed that the Copenhagen school description was not complete, and postulated that some yet unknown variable was to be added to the theory so as to allow answering some of the questions it does not answer (the founding elements of which were discussed as the EPR paradox in 1935). Taking this ideas seriously, John Bell derived in 1964 a prediction that would lead to different experimental results (Bell's inequalities) in the Copenhagen and the Hidden variable case. The experiment was conducted first by Alain Aspect in the early 1980's, and the result excluded the simple hidden variable approach (sophisticated hidden variables could still exist but their properties would still be more disturbing than the problems they try to solve). This does not mean that the conceptual framework of quantum physics can be considered as complete now, since some open questions still exist (the limit between the quantum and classical realms, what happens during a quantum measurement, what happens in a completely closed quantum system such as the universe itself, etc).
+
+Mathematical logic
+In the field of mathematical logic, a clear distinction is made between two notions of axioms: logical and non-logical (somewhat similar to the ancient distinction between "axioms" and "postulates" respectively).
+
+Logical axioms
+These are certain formulas in a formal language that are universally valid, that is, formulas that are satisfied by every assignment of values.  Usually one takes as logical axioms at least some minimal set of tautologies that is sufficient for proving all tautologies in the language; in the case of predicate logic more logical axioms than that are required, in order to prove logical truths that are not tautologies in the strict sense.
+
+Examples
+
+Propositional logic
+In propositional logic it is common to take as logical axioms all formulae of the following forms, where , , and  can be any formulae of the language and where the included primitive connectives are only "" for negation of the immediately following proposition and "" for implication from antecedent to consequent propositions:
+
+Each of these patterns is an axiom schema, a rule for generating an infinite number of axioms.  For example, if , , and  are propositional variables, then  and  are both instances of axiom schema 1, and hence are axioms.  It can be shown that with only these three axiom schemata and modus ponens, one can prove all tautologies of the propositional calculus.  It can also be shown that no pair of these schemata is sufficient for proving all tautologies with modus ponens.
+
+Other axiom schemata involving the same or different sets of primitive connectives can be alternatively constructed.
+
+These axiom schemata are also used in the predicate calculus, but additional logical axioms are needed to include a quantifier in the calculus.
+
+First-order logic
+Axiom of Equality. Let  be a first-order language. For each variable , the formula
+
+is universally valid.
+
+This means that, for any variable symbol  the formula  can be regarded as an axiom. Also, in this example, for this not to fall into vagueness and a never-ending series of "primitive notions", either a precise notion of what we mean by   (or, for that matter, "to be equal") has to be well established first, or a purely formal and syntactical usage of the symbol   has to be enforced, only regarding it as a string and only a string of symbols, and mathematical logic does indeed do that.
+
+Another, more interesting example axiom scheme, is that which provides us with what is known as Universal Instantiation:
+
+Axiom scheme for Universal Instantiation. Given a formula  in a first-order language , a variable  and a term  that is substitutable for  in , the formula
+
+is universally valid.
+
+Where the symbol  stands for the formula  with the term  substituted for . (See Substitution of variables.) In informal terms, this example allows us to state that, if we know that a certain property  holds for every  and that  stands for a particular object in our structure, then we should be able to claim . Again, we are claiming that the formula  is valid, that is, we must be able to give a "proof" of this fact, or more properly speaking, a metaproof.  These examples are metatheorems of our theory of mathematical logic since we are dealing with the very concept of proof itself. Aside from this, we can also have Existential Generalization:
+
+Axiom scheme for Existential Generalization. Given a formula  in a first-order language , a variable  and a term  that is substitutable for  in , the formula
+
+is universally valid.
+
+Non-logical axioms
+Non-logical axioms are formulas that play the role of theory-specific assumptions.  Reasoning about two different structures, for example, the natural numbers and the integers, may involve the same logical axioms; the non-logical axioms aim to capture what is special about a particular structure (or set of structures, such as groups).  Thus non-logical axioms, unlike logical axioms, are not tautologies.  Another name for a non-logical axiom is postulate.
+
+Almost every modern mathematical theory starts from a given set of non-logical axioms, and it was thought that in principle every theory could be axiomatized in this way and formalized down to the bare language of logical formulas.
+
+Non-logical axioms are often simply referred to as axioms in mathematical discourse.  This does not mean that it is claimed that they are true in some absolute sense.  For example, in some groups, the group operation is commutative, and this can be asserted with the introduction of an additional axiom, but without this axiom, we can do quite well developing (the more general) group theory, and we can even take its negation as an axiom for the study of non-commutative groups.
+
+Thus, an axiom is an elementary basis for a formal logic system that together with the rules of inference define a deductive system.
+
+Examples
+This section gives examples of mathematical theories that are developed entirely from a set of non-logical axioms (axioms, henceforth). A rigorous treatment of any of these topics begins with a specification of these axioms.
+
+Basic theories, such as arithmetic, real analysis and complex analysis are often introduced non-axiomatically, but implicitly or explicitly there is generally an assumption that the axioms being used are the axioms of Zermelo–Fraenkel set theory with choice, abbreviated ZFC, or some very similar system of axiomatic set theory like Von Neumann–Bernays–Gödel set theory, a conservative extension of ZFC. Sometimes slightly stronger theories such as Morse–Kelley set theory or set theory with a strongly inaccessible cardinal allowing the use of a Grothendieck universe is used, but in fact, most mathematicians can actually prove all they need in systems weaker than ZFC, such as second-order arithmetic.
+
+The study of topology in mathematics extends all over through point set topology, algebraic topology, differential topology, and all the related paraphernalia, such as homology theory, homotopy theory. The development of abstract algebra brought with itself group theory, rings, fields, and Galois theory.
+
+This list could be expanded to include most fields of mathematics, including measure theory, ergodic theory, probability, representation theory, and differential geometry.
+
+Arithmetic
+The Peano axioms are the most widely used axiomatization of first-order arithmetic.  They are a set of axioms strong enough to prove many important facts about number theory and they allowed Gödel to establish his famous second incompleteness theorem.
+
+We have a language  where  is a constant symbol and  is a unary function and the following axioms:
+
+ 
+ 
+  for any  formula  with one free variable.
+
+The standard structure is  where  is the set of natural numbers,  is the successor function and  is naturally interpreted as the number 0.
+
+Euclidean geometry
+Probably the oldest, and most famous, list of axioms are the 4 + 1 Euclid's postulates of plane geometry.  The axioms are referred to as "4 + 1" because for nearly two millennia the fifth (parallel) postulate ("through a point outside a line there is exactly one parallel") was suspected of being derivable from the first four.  Ultimately, the fifth postulate was found to be independent of the first four. One can assume that exactly one parallel through a point outside a line exists, or that infinitely many exist.  This choice gives us two alternative forms of geometry in which the interior angles of a triangle add up to exactly 180 degrees or less, respectively, and are known as Euclidean and hyperbolic geometries. If one also removes the second postulate ("a line can be extended indefinitely") then elliptic geometry arises, where there is no parallel through a point outside a line, and in which the interior angles of a triangle add up to more than 180 degrees.
+
+Real analysis
+The objectives of the study are within the domain of real numbers.  The real numbers are uniquely picked out (up to isomorphism) by the properties of a Dedekind complete ordered field, meaning that any nonempty set of real numbers with an upper bound has a least upper bound. However, expressing these properties as axioms requires the use of second-order logic. The Löwenheim–Skolem theorems tell us that if we restrict ourselves to first-order logic, any axiom system for the reals admits other models, including both models that are smaller than the reals and models that are larger.  Some of the latter are studied in non-standard analysis.
+
+Role in mathematical logic
+
+Deductive systems and completeness
+A deductive system consists of a set  of logical axioms, a set  of non-logical axioms, and a set  of rules of inference.  A desirable property of a deductive system is that it be complete.  A system is said to be complete if, for all formulas ,
+
+that is, for any statement that is a logical consequence of  there actually exists a deduction of the statement from .  This is sometimes expressed as "everything that is true is provable", but it must be understood that "true" here means "made true by the set of axioms", and not, for example, "true in the intended interpretation". Gödel's completeness theorem establishes the completeness of a certain commonly used type of deductive system.
+
+Note that "completeness" has a different meaning here than it does in the context of Gödel's first incompleteness theorem, which states that no recursive, consistent set of non-logical axioms  of the Theory of Arithmetic is complete, in the sense that there will always exist an arithmetic statement  such that neither  nor  can be proved from the given set of axioms.
+
+There is thus, on the one hand, the notion of completeness of a deductive system and on the other hand that of completeness of a set of non-logical axioms.  The completeness theorem and the incompleteness theorem, despite their names, do not contradict one another.
+
+Further discussion
+Early mathematicians regarded axiomatic geometry as a model of physical space, and obviously, there could only be one such model. The idea that alternative mathematical systems might exist was very troubling to mathematicians of the 19th century and the developers of systems such as Boolean algebra made elaborate efforts to derive them from traditional arithmetic. Galois showed just before his untimely death that these efforts were largely wasted. Ultimately, the abstract parallels between algebraic systems were seen to be more important than the details, and modern algebra was born.  In the modern view, axioms may be any set of formulas, as long as they are not known to be inconsistent.
+
+See also
+
+ Axiomatic system
+ Dogma
+ First principle, axiom in science and philosophy
+ List of axioms
+ Model theory
+ Regulæ Juris
+ Theorem
+ Presupposition
+ Physical law
+ Principle
+
+Notes
+
+References
+
+Further reading
+ Mendelson, Elliot (1987). Introduction to mathematical logic. Belmont, California: Wadsworth & Brooks.
+
+External links
+
+ 
+ 
+ Metamath axioms page
+
+ 
+Ancient Greek philosophy
+Concepts in ancient Greek metaphysics
+Concepts in epistemology
+Concepts in ethics
+Concepts in logic
+Concepts in metaphysics
+Concepts in the philosophy of science
+Deductive reasoning
+Formal systems
+History of logic
+History of mathematics
+History of philosophy
+History of science
+Intellectual history
+Logic
+Mathematical logic
+Mathematical terminology
+Philosophical terminology
+Reasoning

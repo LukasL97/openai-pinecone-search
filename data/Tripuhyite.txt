@@ -1,0 +1,16 @@
+Tripuhyite is an iron antimonate mineral with composition FeSbO4.
+
+Nomenclature
+The name of the mineral comes from the locality of Tripuhy, Ouro Preto, Minas Gerais, Brazil, where it was discovered. Hussak and Prior first described the mineral tripuhyite as an oxide of iron and antimony, and assigned it the composition Fe2Sb2O7.  When a mineral with composition FeSbO4 was later discovered in Squaw Creek, New Mexico (US), it was considered erroneously as a new mineral and it was given the name squawcreekite.  However, other studies had shown that the original tripuhyite was also FeSbO4. In 2002, the Commission on New Minerals and Mineral Names (CNMMN) of the International Mineralogical Association (IMA), approved the redefinition of tripuhyite as FeSbO4 and the discreditation of squawcreekite.
+
+Crystal Structure
+FeSbO4 exhibits the rutile structure, with a tetragonal unit cell. The cations are octahedrally coordinated to oxygen anions, with the octahedra sharing edges along the c-direction. Fe(III) and Sb(V) cations are distributed in a disordered way over the octahedral sites.
+
+References
+
+Bibliography
+Palache, P.; Berman H.; Frondel, C. (1960). "Dana's System of Mineralogy, Volume II: Halides, Nitrates, Borates, Carbonates, Sulfates, Phosphates, Arsenates, Tungstates, Molybdates, Etc. (Seventh Edition)" John Wiley and Sons, Inc., New York, pp. 1024.
+
+Tetragonal minerals
+Iron(III) minerals
+Antimony minerals

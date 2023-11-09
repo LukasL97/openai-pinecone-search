@@ -1,0 +1,205 @@
+ALGOL (; short for "Algorithmic Language") is a family of imperative computer programming languages originally developed in 1958. ALGOL heavily influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than thirty years.
+
+In the sense that the syntax of most modern languages is "Algol-like", it was arguably the most influential of the four high-level programming languages among which it was roughly contemporary: FORTRAN, Lisp, and COBOL. It was designed to avoid some of the perceived problems with FORTRAN and eventually gave rise to many other programming languages, including PL/I, Simula, BCPL, B, Pascal, and C.
+
+ALGOL introduced code blocks and the begin...end pairs for delimiting them. It was also the first language implementing nested function definitions with lexical scope. Moreover, it was the first programming language which gave detailed attention to formal language definition and through the Algol 60 Report introduced Backus–Naur form, a principal formal grammar notation for language design.
+
+There were three major specifications, named after the years they were first published:
+ ALGOL 58 – originally proposed to be called IAL, for International Algebraic Language.
+ ALGOL 60 – first implemented as X1 ALGOL 60 in 1961. Revised 1963.
+ ALGOL 68 – introduced new elements including flexible arrays, slices, parallelism, operator identification. Revised 1973.
+
+ALGOL 68 is substantially different from ALGOL 60 and was not well received, so in general "Algol" means ALGOL 60 and its dialects.
+
+History
+
+ALGOL was developed jointly by a committee of European and American computer scientists in a meeting in 1958 at the Swiss Federal Institute of Technology in Zurich (cf. ALGOL 58). It specified three different syntaxes: a reference syntax, a publication syntax, and an implementation syntax. The different syntaxes permitted it to use different keyword names and conventions for decimal points (commas vs periods) for different languages.
+
+ALGOL was used mostly by research computer scientists in the United States and in Europe. Its use in commercial applications was hindered by the absence of standard input/output facilities in its description and the lack of interest in the language by large computer vendors other than Burroughs Corporation. ALGOL 60 did however become the standard for the publication of algorithms and had a profound effect on future language development.
+
+John Backus developed the Backus normal form method of describing programming languages specifically for ALGOL 58. It was revised and expanded by Peter Naur for ALGOL 60, and at Donald Knuth's suggestion renamed Backus–Naur form.
+
+Peter Naur: "As editor of the ALGOL Bulletin I was drawn into the international discussions of the language and was selected to be member of the European language design group in November 1959. In this capacity I was the editor of the ALGOL 60 report, produced as the result of the ALGOL 60 meeting in Paris in January 1960."
+
+The following people attended the meeting in Paris (from 1 to 16 January):
+ Friedrich L. Bauer, Peter Naur, Heinz Rutishauser, Klaus Samelson, Bernard Vauquois, Adriaan van Wijngaarden, and Michael Woodger (from Europe)
+ John W. Backus, Julien Green, Charles Katz, John McCarthy, Alan J. Perlis, and Joseph Henry Wegstein (from the USA).
+Alan Perlis gave a vivid description of the meeting: "The meetings were exhausting, interminable, and exhilarating. One became aggravated when one's good ideas were discarded along with the bad ones of others. Nevertheless, diligence persisted during the entire period. The chemistry of the 13 was excellent."
+
+ALGOL 60 inspired many languages that followed it. Tony Hoare remarked: "Here is a language so far ahead of its time that it was not only an improvement on its predecessors but also on nearly all its successors." The Scheme programming language, a variant of Lisp that adopted the block structure and lexical scope of ALGOL, also adopted the wording "Revised Report on the Algorithmic Language Scheme" for its standards documents in homage to ALGOL.
+
+ALGOL and programming language research
+As Peter Landin noted, ALGOL was the first language to combine seamlessly imperative effects with the (call-by-name) lambda calculus. Perhaps the most elegant formulation of the language is due to John C. Reynolds, and it best exhibits its syntactic and semantic purity. Reynolds's idealized ALGOL also made a convincing methodologic argument regarding the suitability of local effects in the context of call-by-name languages, in contrast with the global effects used by call-by-value languages such as ML. The conceptual integrity of the language made it one of the main objects of semantic research, along with Programming Computable Functions (PCF) and ML.
+
+IAL implementations timeline
+To date there have been at least 70 augmentations, extensions, derivations and sublanguages of Algol 60.
+
+The Burroughs dialects included special Bootstrapping dialects such as ESPOL and NEWP.  The latter is still used for Unisys MCP system software.
+
+Properties
+ALGOL 60 as officially defined had no I/O facilities; implementations defined their own in ways that were rarely compatible with each other. In contrast, ALGOL 68 offered an extensive library of transput (input/output) facilities.
+
+ALGOL 60 allowed for two evaluation strategies for parameter passing: the common call-by-value, and call-by-name. Call-by-name has certain effects in contrast to call-by-reference. For example, without specifying the parameters as value or reference, it is impossible to develop a procedure that will swap the values of two parameters if the actual parameters that are passed in are an integer variable and an array that is indexed by that same integer variable. Think of passing a pointer to swap(i, A[i]) in to a function. Now that every time swap is referenced, it is reevaluated. Say i := 1 and A[i] := 2, so every time swap is referenced it will return the other combination of the values ([1,2], [2,1], [1,2] and so on). A similar situation occurs with a random function passed as actual argument.
+
+Call-by-name is known by many compiler designers for the interesting "thunks" that are used to implement it. Donald Knuth devised the "man or boy test" to separate compilers that correctly implemented "recursion and non-local references." This test contains an example of call-by-name.
+
+ALGOL 68 was defined using a two-level grammar formalism invented by Adriaan van Wijngaarden and which bears his name. Van Wijngaarden grammars use a context-free grammar to generate an infinite set of productions that will recognize a particular ALGOL 68 program; notably, they are able to express the kind of requirements that in many other programming language standards are labelled "semantics" and have to be expressed in ambiguity-prone natural language prose, and then implemented in compilers as ad hoc code attached to the formal language parser.
+
+Examples and portability issues
+
+Code sample comparisons
+
+ALGOL 60
+(The way the bold text has to be written depends on the implementation, e.g. 'INTEGER'—quotation marks included—for integer. This is known as stropping.)
+
+ procedure Absmax(a) Size:(n, m) Result:(y) Subscripts:(i, k);
+     value n, m; array a; integer n, m, i, k; real y;
+ comment The absolute greatest element of the matrix a, of size n by m
+     is transferred to y, and the subscripts of this element to i and k;
+ begin
+     integer p, q;
+     y := 0; i := k := 1;
+     for p := 1 step 1 until n do
+         for q := 1 step 1 until m do
+             if abs(a[p, q]) > y then
+                 begin y := abs(a[p, q]);
+                     i := p; k := q
+                 end
+ end Absmax
+
+Here is an example of how to produce a table using Elliott 803 ALGOL.
+
+  FLOATING POINT ALGOL TEST'
+  BEGIN REAL A,B,C,D'
+   
+  READ D'
+   
+  FOR A:= 0.0 STEP D UNTIL 6.3 DO
+  BEGIN
+    PRINT PUNCH(3),££L??'
+    B := SIN(A)'
+    C := COS(A)'
+    PRINT PUNCH(3),SAMELINE,ALIGNED(1,6),A,B,C'
+  END'
+  END'
+
+PUNCH(3) sends output to the teleprinter rather than the tape punch.
+SAMELINE suppresses the carriage return + line feed normally printed between arguments.
+ALIGNED(1,6) controls the format of the output with 1 digit before and 6 after the decimal point.
+
+ALGOL 68
+The following code samples are ALGOL 68 versions of the above ALGOL 60 code samples.
+
+ALGOL 68 implementations used ALGOL 60's approaches to stropping. In ALGOL 68's case tokens with the bold typeface are reserved words, types (modes) or operators.
+
+ proc abs max = ([,]real a, ref real y, ref int i, k)real:
+ comment The absolute greatest element of the matrix a, of size ⌈a by 2⌈a
+ is transferred to y, and the subscripts of this element to i and k; comment
+ begin
+    real y := 0; i := ⌊a; k := 2⌊a;
+    for p from ⌊a to ⌈a do
+      for q from 2⌊a to 2⌈a do
+        if abs a[p, q] > y then
+            y := abs a[p, q];
+            i := p; k := q
+        fi
+      od
+    od;
+    y
+ end # abs max #
+Note: lower (⌊) and upper (⌈) bounds of an array, and array slicing, are directly available to the programmer.
+
+ floating point algol68 test:
+ (
+   real a,b,c,d;
+    
+   # printf - sends output to the file stand out. #
+   # printf($p$); – selects a new page #
+   printf(($pg$,"Enter d:"));  
+   read(d);
+    
+   for step from 0 while a:=step*d; a <= 2*pi do
+     printf($l$);  # $l$ - selects a new line. #
+     b := sin(a);
+     c := cos(a);
+     printf(($z-d.6d$,a,b,c))  # formats output with 1 digit before and 6 after the decimal point. #
+   od
+ )
+
+Timeline: Hello world
+The variations and lack of portability of the programs from one implementation to another is easily demonstrated by the classic hello world program.
+
+ALGOL 58 (IAL)
+
+ALGOL 58 had no I/O facilities.
+
+ALGOL 60 family
+
+Since ALGOL 60 had no I/O facilities, there is no portable hello world program in ALGOL.
+The next three examples are in Burroughs Extended Algol. The first two direct output at the interactive terminal they are run on. The first uses a character array, similar to C. The language allows the array identifier to be used as a pointer to the array, and hence in a REPLACE statement.
+
+A simpler program using an inline format:
+
+An even simpler program using the Display statement. Note that its output would end up at the system console ('SPO'):
+
+An alternative example, using Elliott Algol I/O is as follows.  Elliott Algol used different characters for "open-string-quote" and "close-string-quote", represented here by  and .
+
+Below is a version from Elliott 803 Algol (A104). The standard Elliott 803 used five-hole paper tape and thus only had upper case.  The code lacked any quote characters so £ (UK Pound Sign) was used for open quote and ? (Question Mark) for close quote.  Special sequences were placed in double quotes (e.g. ££L?? produced a new line on the teleprinter).
+
+   HIFOLKS'
+   BEGIN
+      PRINT £HELLO WORLD£L??'
+   END'
+
+The ICT 1900 series Algol I/O version allowed input from paper tape or punched card.  Paper tape 'full' mode allowed lower case.  Output was to a line printer. The open and close quote characters were represented using '(' and ')' and spaces by %.
+   'BEGIN'
+      WRITE TEXT('('HELLO%WORLD')');
+   'END'
+
+ALGOL 68
+
+ALGOL 68 code was published with reserved words typically in lowercase, but bolded or underlined.
+ begin
+   printf(($gl$,"Hello, world!"))
+ end
+In the language of the "Algol 68 Report" the input/output facilities were collectively called the "Transput".
+
+Timeline of ALGOL special characters
+
+The ALGOLs were conceived at a time when character sets were diverse and evolving rapidly; also, the ALGOLs were defined so that only uppercase letters were required.
+
+1960: IFIP – The Algol 60 language and report included several mathematical symbols which are available on modern computers and operating systems, but, unfortunately, were unsupported on most computing systems at the time. For instance: ×, ÷, ≤, ≥, ≠, ¬, ∨, ∧, ⊂, ≡, ␣ and ⏨.
+
+1961 September: ASCII – The ASCII character set, then in an early stage of development, had the \ (Back slash) character added to it in order to support ALGOL's boolean operators /\ and \/.
+
+1962: ALCOR – This character set included the unusual "᛭" runic cross character for multiplication and the "⏨" Decimal Exponent Symbol for floating point notation.
+
+1964: GOST – The 1964 Soviet standard GOST 10859 allowed the encoding of 4-bit, 5-bit, 6-bit and 7-bit characters in ALGOL.
+
+1968: The "Algol 68 Report" – used extant ALGOL characters, and further adopted →, ↓, ↑, □, ⌊, ⌈, ⎩, ⎧, ○, ⊥, and ¢ characters which can be found on the IBM 2741 keyboard with typeball (or golf ball) print heads inserted (such as the APL golf ball). These became available in the mid-1960s while ALGOL 68 was being drafted.  The report was translated into Russian, German, French, and Bulgarian, and allowed programming in languages with larger character sets, e.g., Cyrillic alphabet of the Soviet BESM-4. All ALGOL's characters are also part of the Unicode standard and most of them are available in several popular fonts.
+
+2009 October: Unicode – The ⏨ (Decimal Exponent Symbol) for floating point notation was added to Unicode 5.2 for backward compatibility with historic Buran programme ALGOL software.
+
+See also
+
+References
+
+Further reading
+ F.L. Bauer, R. Baumann, M. Feliciano, K. Samelson, Introduction to Algol. Prentice Hall, 1964,  
+ Brian Randell and L. J. Russell, ALGOL 60 Implementation: The Translation and Use of ALGOL 60 Programs on a Computer. Academic Press, 1964. The design of the Whetstone Compiler. One of the early published descriptions of implementing a compiler. See the related papers: Whetstone Algol Revisited, and The Whetstone KDF9 Algol Translator by Brian Randell
+ 
+ Revised Report on the Algorithmic Language Algol 60 by Peter Naur, et al. ALGOL definition
+ "The European Side of the Last Phase of the Development of ALGOL 60" by Peter Naur
+
+External links
+ History of ALGOL at the Computer History Museum
+ Web enabled ALGOL-F compiler for small experiments
+
+ALGOL 60 dialect
+ 
+Articles with example ALGOL 60 code
+Computer-related introductions in 1958
+Procedural programming languages
+Programming languages created in 1958
+Structured programming languages
+Systems programming languages

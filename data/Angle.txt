@@ -1,0 +1,242 @@
+In Euclidean geometry, an angle is the figure formed by two rays, called the sides of the angle, sharing a common endpoint, called the vertex of the angle.
+Angles formed by two rays lie in the plane that contains the rays. Angles are also formed by the intersection of two planes. These are called dihedral angles. Two intersecting curves may also define an angle, which is the angle of the rays lying tangent to the respective curves at their point of intersection. 
+
+Angle is also used to designate the measure of an angle or of a rotation. This measure is the ratio of the length of a circular arc to its radius. In the case of a geometric angle, the arc is centered at the vertex and delimited by the sides. In the case of a rotation, the arc is centered at the center of the rotation and delimited by any other point and its image by the rotation.
+
+History and etymology
+The word angle comes from the Latin word angulus, meaning "corner"; cognate words are the Greek  (ankylοs), meaning "crooked, curved," and the English word "ankle". Both are connected with the Proto-Indo-European root *ank-, meaning "to bend" or "bow".
+
+Euclid defines a plane angle as the inclination to each other, in a plane, of two lines which meet each other, and do not lie straight with respect to each other. According to Proclus, an angle must be either a quality or a quantity, or a relationship. The first concept was used by Eudemus, who regarded an angle as a deviation from a straight line; the second by Carpus of Antioch, who regarded it as the interval or space between the intersecting lines; Euclid adopted the third concept.
+
+Identifying angles
+In mathematical expressions, it is common to use Greek letters (α, β, γ, θ, φ, . . . ) as variables denoting the size of some angle (to avoid confusion with its other meaning, the symbol  is typically not used for this purpose). Lower case Roman letters (a, b, c, . . . ) are also used, as are upper case Roman letters in the context of polygons. See the figures in this article for examples.
+
+In geometric figures, angles may also be identified by the labels attached to the three points that define them. For example, the angle at vertex A enclosed by the rays AB and AC (i.e. the lines from point A to point B and point A to point C) is denoted ∠BAC (in Unicode ) or . Where there is no risk of confusion, the angle may sometimes be referred to simply by its vertex (in this case "angle A").
+
+Potentially, an angle denoted as, say, ∠BAC, might refer to any of four angles: the clockwise angle from B to C, the anticlockwise angle from B to C, the clockwise angle from C to B, or the anticlockwise angle from C to B, where the direction in which the angle is measured determines its sign (see Positive and negative angles). However, in many geometrical situations, it is obvious from context that the positive angle less than or equal to 180 degrees is meant, in which case no ambiguity arises. Otherwise, a convention may be adopted so that ∠BAC always refers to the anticlockwise (positive) angle from B to C, and ∠CAB the anticlockwise (positive) angle from C to B.
+
+Types of angles
+
+Individual angles
+There is some common terminology for angles, whose measure is always non-negative (see ):
+ An angle equal to 0° or not turned is called a zero angle.
+ An angle smaller than a right angle (less than 90°) is called an acute angle ("acute" meaning "sharp").
+ An angle equal to  turn (90° or  radians) is called a right angle. Two lines that form a right angle are said to be normal, orthogonal, or perpendicular.
+ An angle larger than a right angle and smaller than a straight angle (between 90° and 180°) is called an obtuse angle ("obtuse" meaning "blunt").
+ An angle equal to  turn (180° or  radians) is called a straight angle.
+ An angle larger than a straight angle but less than 1 turn (between 180° and 360°) is called a reflex angle.
+ An angle equal to 1 turn (360° or 2 radians) is called a full angle, complete angle, round angle or a perigon.
+ An angle that is not a multiple of a right angle is called an oblique angle.
+
+The names, intervals, and measuring units are shown in the table below:
+
+Equivalence angle pairs
+ Angles that have the same measure (i.e. the same magnitude) are said to be equal or congruent. An angle is defined by its measure and is not dependent upon the lengths of the sides of the angle (e.g. all right angles are equal in measure).
+ Two angles that share terminal sides, but differ in size by an integer multiple of a turn, are called coterminal angles.
+ A reference angle is the acute version of any angle determined by repeatedly subtracting or adding straight angle ( turn, 180°, or  radians), to the results as necessary, until the magnitude of the result is an acute angle, a value between 0 and  turn, 90°, or  radians. For example, an angle of 30 degrees has a reference angle of 30 degrees, and an angle of 150 degrees also has a reference angle of 30 degrees (180–150). An angle of 750 degrees has a reference angle of 30 degrees (750–720).
+
+Vertical and adjacent angle pairs
+
+When two straight lines intersect at a point, four angles are formed. Pairwise these angles are named according to their location relative to each other.
+ A pair of angles opposite each other, formed by two intersecting straight lines that form an "X"-like shape, are called vertical angles or opposite angles or vertically opposite angles. They are abbreviated as vert. opp. ∠s.
+The equality of vertically opposite angles is called the vertical angle theorem. Eudemus of Rhodes attributed the proof to Thales of Miletus. The proposition showed that since both of a pair of vertical angles are supplementary to both of the adjacent angles, the vertical angles are equal in measure. According to a historical note, when Thales visited Egypt, he observed that whenever the Egyptians drew two intersecting lines, they would measure the vertical angles to make sure that they were equal. Thales concluded that one could prove that all vertical angles are equal if one accepted some general notions such as: 
+ All straight angles are equal.
+ Equals added to equals are equal.
+ Equals subtracted from equals are equal.
+
+When two adjacent angles form a straight line, they are supplementary. Therefore, if we assume that the measure of angle A equals x, then the measure of angle C would be . Similarly, the measure of angle D would be . Both angle C and angle D have measures equal to  and are congruent. Since angle B is supplementary to both angles C and D, either of these angle measures may be used to determine the measure of Angle B. Using the measure of either angle C or angle D, we find the measure of angle B to be . Therefore, both angle A and angle B have measures equal to x and are equal in measure.
+
+ Adjacent angles, often abbreviated as adj. ∠s, are angles that share a common vertex and edge but do not share any interior points. In other words, they are angles that are side by side, or adjacent, sharing an "arm". Adjacent angles which sum to a right angle, straight angle, or full angle are special and are respectively called complementary, supplementary and explementary angles (see  below).
+
+A transversal is a line that intersects a pair of (often parallel) lines, and is associated with alternate interior angles, corresponding angles, interior angles, and exterior angles.
+
+Combining angle pairs
+Three special angle pairs involve the summation of angles:
+
+ Complementary angles are angle pairs whose measures sum to one right angle ( turn, 90°, or  radians). If the two complementary angles are adjacent, their non-shared sides form a right angle. In Euclidean geometry, the two acute angles in a right triangle are complementary, because the sum of internal angles of a triangle is 180 degrees, and the right angle itself accounts for 90 degrees.
+The adjective complementary is from Latin complementum, associated with the verb complere, "to fill up". An acute angle is "filled up" by its complement to form a right angle.
+The difference between an angle and a right angle is termed the complement of the angle.
+If angles A and B are complementary, the following relationships hold:
+ 
+(The tangent of an angle equals the cotangent of its complement and its secant equals the cosecant of its complement.)
+The prefix "co-" in the names of some trigonometric ratios refers to the word "complementary".
+
+ Two angles that sum to a straight angle ( turn, 180°, or  radians) are called supplementary angles.
+If the two supplementary angles are adjacent (i.e. have a common vertex and share just one side), their non-shared sides form a straight line. Such angles are called a linear pair of angles. However, supplementary angles do not have to be on the same line, and can be separated in space. For example, adjacent angles of a parallelogram are supplementary, and opposite angles of a cyclic quadrilateral (one whose vertices all fall on a single circle) are supplementary.
+If a point P is exterior to a circle with center O, and if the tangent lines from P touch the circle at points T and Q, then ∠TPQ and ∠TOQ are supplementary.
+The sines of supplementary angles are equal. Their cosines and tangents (unless undefined) are equal in magnitude but have opposite signs.
+In Euclidean geometry, any sum of two angles in a triangle is supplementary to the third, because the sum of internal angles of a triangle is a straight angle.
+
+ Two angles that sum to a complete angle (1 turn, 360°, or 2 radians) are called explementary angles or conjugate angles.
+ The difference between an angle and a complete angle is termed the explement of the angle or conjugate of an angle.
+
+Polygon-related angles
+
+ An angle that is part of a simple polygon is called an interior angle if it lies on the inside of that simple polygon. A simple concave polygon has at least one interior angle that is a reflex angle.
+ In Euclidean geometry, the measures of the interior angles of a triangle add up to  radians, 180°, or  turn; the measures of the interior angles of a simple convex quadrilateral add up to 2 radians, 360°, or 1 turn. In general, the measures of the interior angles of a simple convex polygon with n sides add up to (n − 2) radians, or (n − 2)180 degrees, (n − 2)2 right angles, or (n − 2) turn.
+ The supplement of an interior angle is called an exterior angle, that is, an interior angle and an exterior angle form a linear pair of angles. There are two exterior angles at each vertex of the polygon, each determined by extending one of the two sides of the polygon that meet at the vertex; these two angles are vertical and hence are equal. An exterior angle measures the amount of rotation one has to make at a vertex to trace out the polygon. If the corresponding interior angle is a reflex angle, the exterior angle should be considered negative. Even in a non-simple polygon it may be possible to define the exterior angle, but one will have to pick an orientation of the plane (or surface) to decide the sign of the exterior angle measure.
+ In Euclidean geometry, the sum of the exterior angles of a simple convex polygon, if only one of the two exterior angles is assumed at each vertex, will be one full turn (360°). The exterior angle here could be called a supplementary exterior angle. Exterior angles are commonly used in Logo Turtle programs when drawing regular polygons.
+ In a triangle, the bisectors of two exterior angles and the bisector of the other interior angle are concurrent (meet at a single point).
+ In a triangle, three intersection points, each of an external angle bisector with the opposite extended side, are collinear.
+ In a triangle, three intersection points, two of them between an interior angle bisector and the opposite side, and the third between the other exterior angle bisector and the opposite side extended, are collinear.
+ Some authors use the name exterior angle of a simple polygon to simply mean the explement exterior angle (not supplement!) of the interior angle. This conflicts with the above usage.
+
+Plane-related angles
+ The angle between two planes (such as two adjacent faces of a polyhedron) is called a dihedral angle. It may be defined as the acute angle between two lines normal to the planes.
+ The angle between a plane and an intersecting straight line is equal to ninety degrees minus the angle between the intersecting line and the line that goes through the point of intersection and is normal to the plane.
+
+Measuring angles
+The size of a geometric angle is usually characterized by the magnitude of the smallest rotation that maps one of the rays into the other. Angles that have the same size are said to be equal or congruent or equal in measure.
+
+In some contexts, such as identifying a point on a circle or describing the orientation of an object in two dimensions relative to a reference orientation, angles that differ by an exact multiple of a full turn are effectively equivalent.  In other contexts, such as identifying a point on a spiral curve or describing the cumulative rotation of an object in two dimensions relative to a reference orientation, angles that differ by a non-zero multiple of a full turn are not equivalent.
+
+In order to measure an angle θ, a circular arc centered at the vertex of the angle is drawn, e.g. with a pair of compasses. The ratio of the length s of the arc by the radius r of the circle is the number of radians in the angle.  Conventionally, in mathematics and in the SI, the radian is treated as being equal to the dimensionless value 1.
+
+The angle expressed another angular unit may then be obtained by multiplying the angle by a suitable conversion constant of the form , where k is the measure of a complete turn expressed in the chosen unit (for example,  for degrees or 400 grad for gradians):
+
+The value of  thus defined is independent of the size of the circle: if the length of the radius is changed then the arc length changes in the same proportion, so the ratio s/r is unaltered.
+
+In particular, the measure of angle is radian can be also interpreted as the arc length of its corresponding unit circle:
+
+Angle addition postulate
+The angle addition postulate states that if B is in the interior of angle AOC, then
+
+The measure of the angle AOC is the sum of the measure of angle AOB and the measure of angle BOC.
+
+Units
+
+Throughout history, angles have been measured in various units. These are known as angular units, with the most contemporary units being the degree ( ° ), the radian (rad), and the gradian (grad), though many others have been used throughout history.
+
+In the International System of Quantities, angle is defined as a dimensionless quantity.  This impacts how angle is treated in dimensional analysis.
+
+Most units of angular measurement are defined such that one turn (i.e. one full circle) is equal to n units, for some whole number n.  Two exceptions are the radian (and its decimal submultiples) and the diameter part.
+
+One radian is the angle subtended by an arc of a circle that has the same length as the circle's radius. The radian is the derived unit of angular measurement in the SI system. By definition, it is dimensionless, though it may be specified as rad to avoid ambiguity. Angles measured in degrees, are shown with the symbol °. Subdivisions of the degree are minute (symbol ′, 1′ = 1/60°) and second (symbol ″, 1″ = 1/3600°). An angle of 360° corresponds to the angle subtended by a full circle, and is equal to  radians, or 400 gradians.
+
+Other units used to represent angles are listed in the following table. These units are defined such that the number of turns is equivalent to a full circle.
+
+Other descriptors
+ Hour angle (n = 24): The astronomical hour angle is  turn. As this system is amenable to measuring objects that cycle once per day (such as the relative position of stars), the sexagesimal subunits are called minute of time and second of time.  These are distinct from, and 15 times larger than, minutes and seconds of arc. 1 hour = 15° =  rad =  quad =  turn =  grad.
+ (Compass) point or wind (n = 32): The point, used in navigation, is  of a turn. 1 point =  of a right angle = 11.25° = 12.5 grad. Each point is subdivided in four quarter-points so that 1 turn equals 128 quarter-points.
+ Pechus (n = 144–180): The pechus was a Babylonian unit equal to about 2° or °.
+ Tau, the number of radians in one turn (1 turn =  rad), .
+ Diameter part (n = 376.99...): The diameter part (occasionally used in Islamic mathematics) is  radian. One "diameter part" is approximately 0.95493°. There are about 376.991 diameter parts per turn.
+ Milliradian and derived definitions: The true milliradian is defined a thousandth of a radian, which means that a rotation of one turn would equal exactly 2000π mil (or approximately 6283.185 mil), and almost all scope sights for firearms are calibrated to this definition. In addition there are three other derived definitions used for artillery and navigation which are approximately equal to a milliradian. Under these three other definitions one turn makes up for exactly 6000, 6300 or 6400 mils, which equals spanning the range from 0.05625 to 0.06 degrees (3.375 to 3.6 minutes). In comparison, the true milliradian is approximately 0.05729578 degrees (3.43775 minutes). One "NATO mil" is defined as  of a circle. Just like with the true milliradian, each of the other definitions exploits the mil's useful property of subtensions, i.e. that the value of one milliradian approximately equals the angle subtended by a width of 1 meter as seen from 1 km away ( = 0.0009817... ≈ ).
+ Akhnam and zam. In old Arabia a turn was subdivided in 32 Akhnam and each akhnam was subdivided in 7 zam, so that a turn is 224 zam.
+
+Signed angles
+
+Although the definition of the measurement of an angle does not support the concept of a negative angle, it is frequently useful to impose a convention that allows positive and negative angular values to represent orientations and/or rotations in opposite directions relative to some reference.
+
+In a two-dimensional Cartesian coordinate system, an angle is typically defined by its two sides, with its vertex at the origin. The initial side is on the positive x-axis, while the other side or terminal side is defined by the measure from the initial side in radians, degrees, or turns. With positive angles representing rotations toward the positive y-axis and negative angles representing rotations toward the negative y-axis.  When Cartesian coordinates are represented by standard position, defined by the x-axis rightward and the y-axis upward, positive rotations are anticlockwise and negative rotations are clockwise.
+
+In many contexts, an angle of −θ is effectively equivalent to an angle of "one full turn minus θ". For example, an orientation represented as −45° is effectively equivalent to an orientation represented as 360° − 45° or 315°.  Although the final position is the same, a physical rotation (movement) of −45° is not the same as a rotation of 315° (for example, the rotation of a person holding a broom resting on a dusty floor would leave visually different traces of swept regions on the floor).
+
+In three-dimensional geometry, "clockwise" and "anticlockwise" have no absolute meaning, so the direction of positive and negative angles must be defined relative to some reference, which is typically a vector passing through the angle's vertex and perpendicular to the plane in which the rays of the angle lie.
+
+In navigation, bearings or azimuth are measured relative to north.  By convention, viewed from above, bearing angles are positive clockwise, so a bearing of 45° corresponds to a north-east orientation. Negative bearings are not used in navigation, so a north-west orientation corresponds to a bearing of 315°.
+
+Alternative ways of measuring the size of an angle
+There are several alternatives to measuring the size of an angle by the angle of rotation.
+The slope or gradient is equal to the tangent of the angle, or sometimes (rarely) the sine; a gradient is often expressed as a percentage. For very small values (less than 5%), the grade of a slope is approximately the measure of the angle in radians.
+
+In rational geometry the spread between two lines is defined as the square of the sine of the angle between the lines. As the sine of an angle and the sine of its supplementary angle are the same, any angle of rotation that maps one of the lines into the other leads to the same value for the spread between the lines.
+
+Astronomical approximations
+
+Astronomers measure angular separation of objects in degrees from their point of observation.
+ 0.5° is approximately the width of the sun or moon.
+ 1° is approximately the width of a little finger at arm's length.
+ 10° is approximately the width of a closed fist at arm's length.
+ 20° is approximately the width of a handspan at arm's length.
+
+These measurements clearly depend on the individual subject, and the above should be treated as rough rule of thumb approximations only.
+
+In astronomy, right ascension and declination are usually measured in angular units, expressed in terms of time, based on a 24-hour day.
+
+Measurements that are not angular units
+Not all angle measurements are angular units, for an angular measurement, it is definitional that the angle addition postulate holds.
+
+Some angle measurements where the angle addition postulate does not hold include:
+
+ Trigonometric functions
+ Slope
+
+Angles between curves
+
+The angle between a line and a curve (mixed angle) or between two intersecting curves (curvilinear angle) is defined to be the angle between the tangents at the point of intersection. Various names (now rarely, if ever, used) have been given to particular cases:—amphicyrtic (Gr. , on both sides, κυρτός, convex) or cissoidal (Gr. κισσός, ivy), biconvex; xystroidal or sistroidal (Gr. ξυστρίς, a tool for scraping), concavo-convex; amphicoelic (Gr. κοίλη, a hollow) or angulus lunularis, biconcave.
+
+Bisecting and trisecting angles
+
+The ancient Greek mathematicians knew how to bisect an angle (divide it into two angles of equal measure) using only a compass and straightedge, but could only trisect certain angles. In 1837, Pierre Wantzel showed that for most angles this construction cannot be performed.
+
+Dot product and generalisations
+In the Euclidean space, the angle θ between two Euclidean vectors u and v is related to their dot product and their lengths by the formula
+
+This formula supplies an easy method to find the angle between two planes (or curved surfaces) from their normal vectors and between skew lines from their vector equations.
+
+Inner product
+To define angles in an abstract real inner product space, we replace the Euclidean dot product ( · ) by the inner product , i.e.
+
+In a complex inner product space, the expression for the cosine above may give non-real values, so it is replaced with
+
+or, more commonly, using the absolute value, with
+
+The latter definition ignores the direction of the vectors and thus describes the angle between one-dimensional subspaces  and  spanned by the vectors  and  correspondingly.
+
+Angles between subspaces
+The definition of the angle between one-dimensional subspaces  and   given by
+
+in a Hilbert space can be extended to subspaces of any finite dimensions. Given two subspaces ,  with , this leads to a definition of  angles called canonical or principal angles between subspaces.
+
+Angles in Riemannian geometry
+In Riemannian geometry, the metric tensor is used to define the angle between two tangents. Where U and V are tangent vectors and gij are the components of the metric tensor G,
+
+Hyperbolic angle
+A hyperbolic angle is an argument of a hyperbolic function just as the circular angle is the argument of a circular function. The comparison can be visualized as the size of the openings of a hyperbolic sector and a circular sector since the areas of these sectors correspond to the angle magnitudes in each case. Unlike the circular angle, the hyperbolic angle is unbounded. When the circular and hyperbolic functions are viewed as infinite series in their angle argument, the circular ones are just alternating series forms of the hyperbolic functions. This weaving of the two types of angle and function was explained by Leonhard Euler in Introduction to the Analysis of the Infinite.
+
+Angles in geography and astronomy
+In geography, the location of any point on the Earth can be identified using a geographic coordinate system. This system specifies the latitude and longitude of any location in terms of angles subtended at the center of the Earth, using the equator and (usually) the Greenwich meridian as references.
+
+In astronomy, a given point on the celestial sphere (that is, the apparent position of an astronomical object) can be identified using any of several astronomical coordinate systems, where the references vary according to the particular system. Astronomers measure the angular separation of two stars by imagining two lines through the center of the Earth, each intersecting one of the stars. The angle between those lines can be measured and is the angular separation between the two stars.
+
+In both geography and astronomy, a sighting direction can be specified in terms of a vertical angle such as altitude /elevation with respect to the horizon as well as the azimuth with respect to north.
+
+Astronomers also measure the apparent size of objects as an angular diameter. For example, the full moon has an angular diameter of approximately 0.5°, when viewed from Earth. One could say, "The Moon's diameter subtends an angle of half a degree." The small-angle formula can be used to convert such an angular measurement into a distance/size ratio.
+
+See also
+
+ Angle measuring instrument
+ Angular statistics (mean, standard deviation)
+ Angle bisector
+ Angular acceleration
+ Angular diameter
+ Angular velocity
+ Argument (complex analysis)
+ Astrological aspect
+ Central angle
+ Clock angle problem
+ Decimal degrees
+ Dihedral angle
+ Exterior angle theorem
+ Golden angle
+ Great circle distance
+ Inscribed angle
+ Irrational angle
+ Phase (waves)
+ Protractor
+ Solid angle
+ Spherical angle
+ Transcendent angle
+ Trisection
+ Zenith angle
+
+Notes
+
+References
+
+Bibliography 
+ 
+ .
+
+External links

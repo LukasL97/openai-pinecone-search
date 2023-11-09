@@ -1,0 +1,101 @@
+Sir Andrew John Wiles  (born 11 April 1953) is an English mathematician and a Royal Society Research Professor at the University of Oxford, specializing in number theory. He is best known for proving Fermat's Last Theorem, for which he was awarded the 2016 Abel Prize and the 2017 Copley Medal by the Royal Society. He was appointed Knight Commander of the Order of the British Empire in 2000, and in 2018, was appointed as the first Regius Professor of Mathematics at Oxford. Wiles is also a 1997 MacArthur Fellow.
+
+Education and early life
+Wiles was born on 11 April 1953 in Cambridge, England, the son of Maurice Frank Wiles (1923–2005) and Patricia Wiles (née Mowll). From 1952-1955, his father worked as the chaplain at Ridley Hall, Cambridge, and later became the Regius Professor of Divinity at the University of Oxford.
+
+Wiles attended King's College School, Cambridge, and The Leys School, Cambridge.
+
+Wiles states that he came across Fermat's Last Theorem on his way home from school when he was 10 years old. He stopped at his local library where he found a book The Last Problem, by Eric Temple Bell, about the theorem. Fascinated by the existence of a theorem that was so easy to state that he, a ten-year-old, could understand it, but that no one had proven, he decided to be the first person to prove it. However, he soon realised that his knowledge was too limited, so he abandoned his childhood dream until it was brought back to his attention at the age of 33 by Ken Ribet's 1986 proof of the epsilon conjecture, which Gerhard Frey had previously linked to Fermat's famous equation.
+
+Career and research
+In 1974, Wiles earned his bachelor's degree in mathematics at Merton College, Oxford. Wiles's graduate research was guided by John Coates, beginning in the summer of 1975. Together they worked on the arithmetic of elliptic curves with complex multiplication by the methods of Iwasawa theory. He further worked with Barry Mazur on the main conjecture of Iwasawa theory over the rational numbers, and soon afterward, he generalized this result to totally real fields.
+
+In 1980, Wiles earned a PhD while at Clare College, Cambridge. After a stay at the Institute for Advanced Study in Princeton, New Jersey, in 1981, Wiles became a Professor of Mathematics at Princeton University. 
+
+In 1985–86, Wiles was a Guggenheim Fellow at the Institut des Hautes Études Scientifiques near Paris and at the École Normale Supérieure. 
+From 1988 to 1990, Wiles was a Royal Society Research Professor at the University of Oxford, and then he returned to Princeton. 
+From 1994 to 2009, Wiles was a Eugene Higgins Professor at Princeton. He rejoined Oxford in 2011 as Royal Society Research Professor.
+
+In May 2018, Wiles was appointed Regius Professor of Mathematics at Oxford, the first in the university's history.
+
+Proof of Fermat's Last Theorem
+
+Starting in mid-1986, based on successive progress of the previous few years of Gerhard Frey, Jean-Pierre Serre and Ken Ribet, it became clear that Fermat's Last Theorem could be proven as a corollary of a limited form of the modularity theorem (unproven at the time and then known as the "Taniyama–Shimura–Weil conjecture"). The modularity theorem involved elliptic curves, which was also Wiles's own specialist area.
+
+The conjecture was seen by contemporary mathematicians as important, but extraordinarily difficult or perhaps impossible to prove. For example, Wiles's ex-supervisor John Coates stated that it seemed "impossible to actually prove", and Ken Ribet considered himself "one of the vast majority of people who believed [it] was completely inaccessible", adding that "Andrew Wiles was probably one of the few people on earth who had the audacity to dream that you can actually go and prove [it]."
+
+Despite this, Wiles, with his from-childhood fascination with Fermat's Last Theorem, decided to undertake the challenge of proving the conjecture, at least to the extent needed for Frey's curve. He dedicated all of his research time to this problem for over six years in near-total secrecy, covering up his efforts by releasing prior work in small segments as separate papers and confiding only in his wife.
+
+In June 1993, he presented his proof to the public for the first time at a conference in Cambridge.
+
+In August 1993, it was discovered that the proof contained a flaw in one area. Wiles tried and failed for over a year to repair his proof. According to Wiles, the crucial idea for circumventing, rather than closing this area came to him on 19 September 1994, when he was on the verge of giving up. Together with his former student Richard Taylor, he published a second paper which circumvented the problem and thus completed the proof. Both papers were published in May 1995 in a dedicated issue of the Annals of Mathematics.
+
+Awards and honours
+
+Wiles's proof of Fermat's Last Theorem has stood up to the scrutiny of the world's other mathematical experts. Wiles was interviewed for an episode of the BBC documentary series Horizon about Fermat's Last Theorem. This was broadcast as an episode of the PBS science television series Nova with the title "The Proof". His work and life are also described in great detail in Simon Singh's popular book Fermat's Last Theorem.
+
+Wiles has been awarded a number of major prizes in mathematics and science:
+ Junior Whitehead Prize of the London Mathematical Society (1988)
+ Elected a Fellow of the Royal Society (FRS) in 1989
+Elected member of the American Academy of Arts and Sciences (1994)
+ Schock Prize (1995)
+ Fermat Prize (1995)
+ Wolf Prize in Mathematics (1995/6)
+ Elected a Foreign Associate of the National Academy of Sciences (1996)
+ NAS Award in Mathematics from the National Academy of Sciences (1996)
+ Royal Medal (1996)
+ Ostrowski Prize (1996)
+ Cole Prize (1997)
+ MacArthur Fellowship (1997) 
+ Wolfskehl Prize (1997) – see Paul Wolfskehl
+Elected member of the American Philosophical Society (1997)
+ A silver plaque from the International Mathematical Union (1998) recognising his achievements, in place of the Fields Medal, which is restricted to those under 40 (Wiles was 41 when he proved the theorem in 1994)
+ King Faisal Prize (1998)
+ Clay Research Award (1999)
+ Premio Pitagora (Croton, 2004)
+ Shaw Prize (2005)
+ The asteroid 9999 Wiles was named after Wiles in 1999.
+ Knight Commander of the Order of the British Empire (2000)
+ The building at the University of Oxford housing the Mathematical Institute is named after Wiles.
+ Abel Prize (2016)
+ Copley Medal (2017)
+
+Wiles's 1987 certificate of election to the Royal Society reads:
+
+References
+
+External links
+
+Profile from Oxford
+Profile from Princeton
+
+1953 births
+Living people
+20th-century mathematicians
+21st-century mathematicians
+Abel Prize laureates
+Alumni of Clare College, Cambridge
+Alumni of King's College, Cambridge
+Alumni of Merton College, Oxford
+Clay Research Award recipients
+English mathematicians
+Fellows of Merton College, Oxford
+Fellows of the Royal Society
+Fermat's Last Theorem
+Foreign associates of the National Academy of Sciences
+Institute for Advanced Study visiting scholars
+Knights Commander of the Order of the British Empire
+MacArthur Fellows
+Members of the American Philosophical Society
+Members of the French Academy of Sciences
+Number theorists
+People educated at The Leys School
+People from Cambridge
+Princeton University faculty
+Recipients of the Copley Medal
+Regius Professors of Mathematics (University of Oxford)
+Rolf Schock Prize laureates
+Royal Medal winners
+Trustees of the Institute for Advanced Study
+Whitehead Prize winners
+Wolf Prize in Mathematics laureates

@@ -1,0 +1,137 @@
+The Apple Computer 1, originally released as the Apple Computer and known later as the Apple I, or Apple-1, is a desktop computer released by the Apple Computer Company (now Apple Inc.) in 1976. It was designed by Steve Wozniak. The idea of selling the computer came from Wozniak's friend and co-founder Steve Jobs.  The Apple I was Apple's first product, and to finance its creation, Jobs sold his only motorized means of transportation, a VW Microbus, for a few hundred dollars (Wozniak later said that Jobs planned instead to use his bicycle to get around), and Wozniak sold his HP-65 calculator for $500. Wozniak demonstrated the first prototype in July 1976 at the Homebrew Computer Club in Palo Alto, California.
+
+Production was discontinued on September 30, 1977, after the June 10, 1977 introduction of its successor, the Apple II, which Byte magazine referred to as part of the "1977 Trinity" of personal computing (along with the PET 2001 from Commodore Business Machines and the TRS-80 Model I from Tandy Corporation).
+
+History
+
+On March 5, 1975, Steve Wozniak attended the first meeting of the Homebrew Computer Club in Gordon French's garage. He was so inspired that he immediately set to work on what would eventually become the Apple I computer. After building it for himself and showing it at the club, he and Steve Jobs gave out schematics (technical designs) for the computer to interested club members and even helped some of them build and test out copies. Then, Steve Jobs suggested that they design and sell a single etched and silkscreened circuit board—just the bare board, with no electronic parts—that people could use to build the computers. Wozniak calculated that having the board design laid out would cost $1,000 and manufacturing would cost another $20 per board; he hoped to recoup his costs if 50 people bought the boards for $40 each. To fund this small venture—their first company—Jobs sold his van and Wozniak sold his HP-65 calculator. Very soon after, Steve Jobs arranged to sell "something like 50" completely-built computers to the Byte Shop (a computer store in Mountain View, California) at $500 each. To fulfill the $25,000 order, they obtained $20,000 in parts at 30 days net and delivered the finished product in 10 days.
+
+The Apple I went on sale in July 1976 at a price of , because Wozniak "liked repeating digits" and because of a one-third markup on the $500 wholesale price.
+
+The first unit produced was used in a high school math class, and donated to Liza Loop's public-access computer center. About 200 units were produced, and all but 25 were sold within nine or ten months.
+
+In April 1977, the price was dropped to $475. It continued to be sold through August 1977, despite the introduction of the Apple II in April 1977, which began shipping in June of that year. In October 1977, the Apple I was officially discontinued and removed from Apple's price list. As Wozniak was the only person who could answer most customer support questions about the computer, the company offered Apple I owners discounts and trade-ins for Apple IIs to persuade them to return their computers. These recovered boards were then destroyed by Apple, contributing to their rarity today.
+
+Overview
+Wozniak's design originally used a Motorola 6800 processor, which cost $175, but when MOS Technology introduced the much cheaper 6502 microprocessor ($25) he switched. The Apple I CPU ran at 1.022,727 MHz, a fraction (2⁄7) of the NTSC color carrier which simplified video circuitry. Memory used the new 4K bit DRAM chips, and was 4K Bytes, expandable to 8KB on board, or 64KB externally The board was designed to use the next generation of 16K bit memory chips when they became available. An optional $75 plug-in cassette interface card allowed users to store programs on ordinary audio cassette tapes. A BASIC interpreter, originally written by Wozniak, was provided that let users easily write programs and play simple games. An onboard AC power supply was included.
+
+The Apple I's built-in computer terminal circuitry was distinctive. All one needed was a keyboard and a television set. The Apple 1 did not come with a case. It was either used as-is or some chose to build custom (mostly wooden) cases. Competing machines such as the Altair 8800 generally were programmed with front-mounted toggle switches and used indicator lights (red LEDs, most commonly) for output, and had to be extended with separate hardware to allow connection to a computer terminal or a teletypewriter machine. This made the Apple I an innovative machine for its day.
+
+Collectors' item
+
+As of February 2022, 62 Apple-1 computers have been confirmed to exist and according to not verified information 20 more a likely exist. 41 1st batch, 39 2nd batch and 2 unknown versions. Most are now in working condition. 
+
+ An Apple I reportedly sold for US$50,000 at auction in 1999.
+ In 2008, the website Vintage Computing and Gaming reported that Apple I owner Rick Conte was looking to sell his unit and was "expecting a price in excess of $15,000 U.S."  The site later reported Conte had donated the unit to the Maine Personal Computer Museum in 2009.
+ A unit was sold in September 2009 for $17,480 on eBay.
+ A unit belonging to early Apple Computer engineers Dick and Cliff Huston was sold on March 23, 2010, for $42,766 on eBay.
+ In November 2010, an Apple I sold for £133,250 ($210,000) at Christie's auction house in London. The high price was likely due to the rare documents and packaging offered in the sale in addition to the computer, including the original packaging (with the return label showing Steve Jobs' parents' address, the original Apple Computer Inc "headquarters" being their garage), a personally typed and signed letter from Jobs (answering technical questions about the computer), and the original invoice showing "Steven" as the salesman. The computer was brought to Polytechnic University of Turin where it was fixed and used to run the BASIC programming language.
+ On June 15, 2012, a working Apple I was sold at auction by Sotheby's for a then-record $374,500, more than double the expected price. This unit is on display at the Nexon Computer Museum in Jeju City, South Korea.
+ In October 2012, a non-working Apple I from the estate of former Apple Computer employee Joe Copson was put up for auction by Christie's, but found no bidder who was willing to pay the starting price of US$80,000 (£50,000).  Copson's board had previously been listed on eBay in December 2011, with a starting bid of $170,000 and failed to sell.  Following the Christie's auction, the board was restored to working condition by computer historian Corey Cohen.  Copson's Apple I was once again listed on eBay, where it sold for US$236,100.03 on April 23, 2015.
+ On November 24, 2012, a working Apple I was sold at auction by Auction Team Breker for €400,000 (US$515,000).
+On May 25, 2013, a functioning 1976 model was sold for a then-record €516,000 (US$668,000) in Cologne. Auction Team Breker said "an unnamed Asian client" bought the Apple I. This particular unit has Wozniak's signature. An old business transaction letter from Jobs also was included, as well as the original owner's manual.
+On June 24, 2013, an Apple I was listed by Christie's as part of a special online-only auction lot called "First Bytes: Iconic Technology From the Twentieth Century." Bidding ran through July 9, 2013. The unit sold for $390,000.
+In November 2013, a working unit speculated to have been part of the original lot of 50 boards delivered to the Byte Shop was listed by Auction Team Breker for €180,000 ($242,820), but failed to sell during the auction. Immediately following the close of bidding, a private collector purchased it for €246,000 ($330,000). This board was marked "01-0046," matching the numbering placed on other units sold to the Byte Shop and included the original operation manuals, software cassettes, and shipping box autographed by Steve Wozniak. The board also bears Wozniak's signature.
+In October 2014, a working, early Apple I was sold at auction for $905,000 to the Henry Ford Museum in Dearborn, Michigan. The sale included the keyboard, monitor, cassette decks and a manual. The auction was run by Bonhams.
+On December 13, 2014, a fully functioning, early Apple I was sold at auction for $365,000 by auction house Christie's. The sale included a keyboard, custom case, original manual and a check labeled "Purchased July 1976 from Steve Jobs in his parents' garage in Los Altos".
+On May 30, 2015, a woman reportedly dropped off boxes of electronics for disposal at an electronics recycling center in the Silicon Valley of Northern California. Included in the items removed from her garage after the death of her husband was an original Apple I computer, which the recycling firm sold for $200,000 to a private collector. It is the company's practice to give back 50% of the proceeds to the original owner when an item is sold, so they want to find the mystery donor.
+On September 21, 2015, an Apple I bearing the Byte Shop number 01-0059 was listed by Bonhams Auctions as part of their "History of Science and Technology" auction with a starting bid of US$300,000. The machine was described as, "in near perfect condition." The owner, Tom Romkey, "...only used the Apple-1 once or twice, and ...set it on a shelf, and did not touch it again." The machine did not sell. However, Glenn and Shannon Dellimore, the co-founders of GLAMGLOW, a beauty company which they sold to Estee Lauder Companies, bought it after the auction through Bonhams Auction house. On the 40th Anniversary of Apple Computers 2016 the Dellimore's working Apple-1 went on loan and on display in 'Artifact'  at the V&A Museum in London, England.
+ On August 26, 2016, (the 40th Anniversary year of Apple Computers), the rarest Apple-1 in existence, an Apple-I prototype made and hand-built by Steve Jobs himself (according to Apple-1 expert Corey Cohen) and dubbed the 'Holy Grail' of computers was sold for $815,000 to winning bidders Glenn and Shannon Dellimore, the co-founders of cosmetics firm Glamglow, in an auction by Charitybuzz. The for-profit internet company that raises funds for nonprofit organizations declared that ten percent of the proceeds will go to the Leukemia and Lymphoma Society, based in New York.
+ On April 15, 2017, an Apple I removed from Steve Jobs's office by Apple quality control engineer Don Hutmacher was placed on display at Living Computers: Museum + Labs. This Apple I was modified by Dan Kottke and Bill Fernandez. This previously unknown unit was purchased from Hutmacher's heirs for an undisclosed amount.
+On September 25, 2018, a functioning Apple I was purchased at a Dallas auction for $375,000 by an anonymous buyer.
+On May 23, 2019, an Apple I was purchased through Christie's auction house in London for £371,000. This Apple I is uniquely built into the bottom half of a briefcase and the lot included a modified cassette interface card, Panasonic RQ-309DS cassette tape recorder, SWTPC PR-40 alphanumeric printer, Sanyo VM4209 monitor and Motorola M6800 microprocessor.
+On March 12, 2020, a fully-functional Apple I was purchased at a Boston auction for $458,711. The lot included the original board with a Synertek CPU, Apple Cassette Interface, display case, keyboard kit, power supply, monitor and manuals.
+On November 9, 2021, one sold with user manuals and Apple software on two cassette tapes for $500,000 (many wrote 400,000 and forgot the premium), originally purchased by a college professor then sold to his student for $650.
+
+Serial numbers
+Both Steve Jobs and Steve Wozniak have stated that Apple did not assign serial numbers to the Apple l. Several boards have been found with numbered stickers affixed to them, which appear to be inspection stickers from the PCB manufacturer/assembler. A batch of boards is known to have numbers hand-written in black permanent marker on the back; these usually appear as "01-00##".
+
+Until January 2022, it was unknown who wrote the serial number on Apple of the 1st batch. As of January 2022, 29 Apple-1s with a serial number are known. The highest known number is .
+
+Neither the Apple company founders, nor Paul Terrell (founder of the Byte Shop), nor various Byte Shop employees remembered the originator. These numbers are sometimes incorrectly referred to as ‘Byte Shop numbers’. That was just a theory, which is now disproved.
+
+After several years of research and collecting type specimens, Achim Baqué (the curator of the Apple-1 Registry), had two original Apple-1s subjected to forensic analysis by PSA Los Angeles. The results were conclusive for both Apple-1s. It is the handwriting of Steve Jobs. 
+The story was published on (February 10, 2022) during a Zoom meeting on the occasion of the World Computer Day. The story and ‘Letter of Authenticity’ were published same day.
+
+Museums displaying an original Apple 1 Computer
+
+United States
+ American Computer & Robotics Museum in Bozeman, Montana
+ Computer History Museum in Mountain View, California
+ Computer Museum of America in Roswell, Georgia
+ Smithsonian Museum of American History in Washington, DC
+ Living Computers: Museum + Labs in Seattle, Washington
+ System Source Computer Museum in Hunt Valley, Maryland
+
+Australia
+ Powerhouse Museum in Sydney, New South Wales
+
+Germany
+ Heinz Nixdorf MuseumsForum in Paderborn (working condition)
+ Deutsches Museum in Munich (working condition)
+
+United Kingdom
+ Science Museum, London in London, United Kingdom
+
+South Korea
+ Nexon Computer Museum in Jeju Island, South Korea
+
+Switzerland
+ ENTER Computer Museum in Solothurn, Switzerland
+
+Clones and replicas
+Several Apple I clones and replicas have been released in recent years. These are all created by hobbyists and marketed to the hobbyist/collector community. Availability is usually limited to small runs in response to demand.
+
+ Replica 1: Created by Vince Briel. A software-compatible clone, produced using modern components, released in 2003 at a price of around $150.
+ PE6502: Created by Jason Putnam.  A single board computer kit made with all through-hole and current production components.  Runs Apple 1 "Integer BASIC", a clone of AppleSoft BASIC (floating point capable), Wozmon and Krusader- all built-in ROM.  32k of RAM, and a Parallax Propeller terminal.  Software compatible with the Apple 1.
+ A-One: Created by Frank Achatz, also using modern components.
+ RC6502 Apple I Replica, which uses a modern or period CPU and MC6821 PIA, and usually modern RAM and ROM. The system is modular, with multiple boards plugging into a backplane, but a single-board version (using an Arduino Nano to replace the keyboard and video hardware with a serial interface) is also available.
+ Obtronix Apple I reproduction: Created by Steve Gabaly, using original components or equivalents thereof.  Sold through eBay.
+ Mimeo 1: Created by Mike Willegal. A hardware kit designed to replicate a real Apple I as accurately possible.  Buyers are expected to assemble the kits themselves.
+ Newton 1: Created by Michael Ng and released in 2012. Similar to the Mimeo 1, but is made using the same materials and same obsolete processing technique commonly used in the 1970s. Over 400 bare boards, kits and assembled boards were sold. There are Newton NTI and non-NTI versions available.
+Brain Board, a plug-in firmware board for the Apple II that, with the optional "Wozanium Pack" program, can emulate a functional Apple-1.
+ Replica by MDesk. An accurate PCB copy of original Apple 1 was researched in 2012–2014. A few PCBs without components were sold for $26 in 2014.
+SmartyKit 1 computer kit: created by Sergey Panarin with package design by Greg Chemeris and released in 2019. A hardware kit on breadboards designed to replicate a real Apple I with modern components (ROM, RAM, Arduino controllers for video and keyboard) and  real 6502 CPU. Made to teach anyone how to build a computer and how it works. Was presented at CES 2020 in Las Vegas and then featured in Apple Insider, WIRED, Tom's Hardware.
+
+Emulation
+Apple 1js, a web-based Apple I emulator written in JavaScript.
+MESS, a multi-system emulator able to emulate the Apple I.
+OpenEmulator, an accurate emulator of the Apple I, the ACI (Apple Cassette Interface) and CFFA1 expansion card.
+Pom1, an open source Apple I emulator for Microsoft Windows, Arch Linux and Android devices.
+Apple 1 Emulator, an emulator for the SAM Coupé home computer.
+CocoaPom, a Java-based emulator with a Cocoa front-end for Macintosh.
+Sim6502, an Apple I emulator for Macintosh.
+Green Delicious Apple-1, an emulator for the Commodore 64.
+
+See also
+ Computer museums
+ History of computer science
+ History of computing
+
+References
+
+Citations
+
+Sources 
+
+ Price, Rob (1987). So Far: The First Ten Years of a Vision. Cupertino, Calif.: Apple Computer. .
+ Owad, Tom (2005). Apple I Replica Creation: Back to the Garage. Rockland, Mass.: Syngress Publishing. .
+
+External links
+
+ Apple I Computer specifications
+ Bugbook Computer Museum blog. Apple 1 display.
+ Apple I Owners Club
+ Apple I Operational Manual
+ German making-of article to recreate the Apple I Operational Manual
+ Apple I project on www.sbprojects.com
+ Apple 1 Computer Registry
+ Macintosh Prehistory: The Apple I
+ John Calande III blog – Building the Apple I clone, including corrections on the early history of Apple Computer
+Apple 1 | Cameron's Closet – includes display of the Apple 1's character set on real hardware, compared to on most emulators
+
+Computer-related introductions in 1976
+Apple II family
+Apple Inc. hardware
+Early microcomputers
+6502-based home computers

@@ -1,0 +1,7 @@
+Annealing may refer to:
+
+ Annealing (biology), in genetics
+ Annealing (glass), heating a piece of glass to remove stress
+ Annealing (materials science), a heat treatment that alters the microstructure of a material
+ Quantum annealing, a method for solving combinatorial optimisation problems and ground states of glassy systems
+ Simulated annealing, a numerical optimization technique

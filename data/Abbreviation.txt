@@ -1,0 +1,193 @@
+An abbreviation (from Latin brevis, meaning short) is a shortened form of a word or phrase, by any method. It may consist of a group of letters or words taken from the full version of the word or phrase; for example, the word abbreviation can itself be represented by the abbreviation abbr., abbrv., or abbrev.; NPO, for nil (or nothing) per (by) os (mouth) is an abbreviated medical instruction. It may also consist of initials only, a mixture of initials and words, or words or letters representing words in another language (for example, e.g., i.e. or RSVP). Some types of abbreviations are acronyms (some pronounceable, some initialism) or grammatical contractions or crasis.
+
+An abbreviation is a shortening by any of these or other methods.
+
+Different types of abbreviation
+Acronyms, initialisms, contractions and crasis share some semantic and phonetic functions, and all four are connected by the term "abbreviation" in loose parlance.
+
+A contraction is a reduction in size of a word or phrase made by omitting certain of its letters or syllables. Consequently, contractions are a subset of abbreviations. Often, but not always, the contraction includes the first and last letters or elements. Examples of contractions are "li'l" (for "little"), "I'm" (for "I am"), and "he'd've" (for "he would have").
+
+History 
+
+Abbreviations have a long history, created so that spelling out a whole word could be avoided. This might be done to save time and space, and also to provide secrecy. In both Greece and Rome the reduction of words to single letters was common. In Roman inscriptions, "Words were commonly abbreviated by using the initial letter or letters of words, and most inscriptions have at least one abbreviation". However, "some could have more than one meaning, depending on their context. (For example,  can be an abbreviation for many words, such as , , , , , ,  and .)"
+
+Abbreviations in English were frequently used from its earliest days. Manuscripts of copies of the old English poem Beowulf used many abbreviations, for example the Tironian et () or  for and, and  for since, so that "not much space is wasted". The standardisation of English in the 15th through 17th centuries included such a growth in the use of abbreviations. At first, abbreviations were sometimes represented with various suspension signs, not only periods. For example, sequences like ‹er› were replaced with ‹ɔ›, as in ‹mastɔ› for master and ‹exacɔbate› for exacerbate. While this may seem trivial, it was symptomatic of an attempt by people manually reproducing academic texts to reduce the copy time.
+
+In the Early Modern English period, between the 15th and 17th centuries, the thorn  was used for th, as in  ('the'). However, in modern times,  was often misread and wrongly rewritten as , as in .
+
+During the growth of philological linguistic theory in academic Britain, abbreviating became very fashionable. For example  J. R. R. Tolkien, his friend C. S. Lewis and other members of the Oxford literary group were known as the Inklings. Likewise, a century earlier in Boston, a fad of abbreviation started that swept the United States, with the globally popular term OK generally credited as a remnant of its influence.
+
+Over the years, however, the lack of convention in some style guides has made it difficult to determine which two-word abbreviations should be abbreviated with periods and which should not. This question is considered below,
+
+Widespread use of electronic communication through mobile phones and the Internet during the 1990s allowed for a marked rise in colloquial abbreviation. This was due largely to increasing popularity of textual communication services such as instant- and text messaging. The original SMS, supported message lengths of 160 characters at most (using the GSM 03.38 character set), for instance.  This brevity gave rise to an informal abbreviation scheme sometimes called Textese, with which 10% or more of the words in a typical SMS message are abbreviated. More recently Twitter, a popular social networking service, began driving abbreviation use with 140 character message limits.
+
+Style conventions in English 
+
+In modern English, there are several conventions for abbreviations, and the choice may be confusing. The only rule universally accepted is that one should be consistent, and to make this easier, publishers express their preferences in a style guide. Questions which arise include those in the following subsections.
+
+Lowercase letters 
+
+If the original word was capitalized then the first letter of its abbreviation should retain the capital, for example Lev. for Leviticus. When a word is abbreviated to more than a single letter and was originally spelled with lower case letters then there is no need for capitalization. However, when abbreviating a phrase where only the first letter of each word is taken, then all letters should be capitalized, as in YTD for year-to-date, PCB for printed circuit board and FYI for for your information. However, see the following section regarding abbreviations that have become common vocabulary: these are no longer written with capital letters.
+
+Periods (full stops) and spaces 
+
+A period (full stop) is often used to signify an abbreviation, but opinion is divided as to when and if this should happen.
+
+According to Hart's Rules, the traditional rule is that abbreviations (in the narrow sense that includes only words with the ending, and not the middle, dropped) terminate with a full stop, whereas contractions (in the sense of words missing a middle part) do not, but there are exceptions. Fowler's Modern English Usage says full stops are used to mark both abbreviations and contractions, but recommends against this practice: advising them only for abbreviations and lower-case initialisms and not for upper-case initialisms and contractions.
+
+In American English, the period is usually included regardless of whether or not it is a contraction, e.g. Dr. or Mrs.. In some cases, periods are optional, as in either US or U.S. for United States, EU or E.U. for European Union, and UN or U.N. for United Nations. There are some house styles, however—American ones included—that remove the periods from almost all abbreviations. For example:
+ The U.S. Manual on Uniform Traffic Control Devices advises that periods should not be used with abbreviations on road signs, except for cardinal directions as part of a destination name. (For example, "Northwest Blvd", "W. Jefferson", and "PED XING" all follow this recommendation.) 
+ AMA style, used in many medical journals, uses no periods in abbreviations or acronyms, with almost no exceptions. Thus eg, ie, vs, et al., Dr, Mr, MRI, ICU, and hundreds of others contain no periods. The only exceptions are  (an abbreviation of Numero, Number) (to avoid the appearance of "No" (yes and no); initials within persons' names (such as "George R. Smith"); and "St." within persons' names when the person prefers it (such as "Emily R. St. Clair") (but not in city names such as St Louis or St Paul). (AMA style also forgoes italic on terms long since naturalized into English from Latin, New Latin, other languages, or ISV; thus, no italic for eg, ie, vs, et al., in vivo, in vitro, or in situ.)
+
+Acronyms that were originally capitalized (with or without periods) but have since entered the vocabulary as generic words are no longer written with capital letters nor with any periods. Examples are sonar, radar, lidar, laser, snafu, and scuba.
+
+Today, spaces are generally not used between single-letter abbreviations of words in the same phrase, so one almost never encounters "U. S."
+
+When an abbreviation appears at the end of a sentence, only one period is used: The capital of the United States is Washington, D.C.
+
+Plural forms 
+
+There is a question about how to pluralize abbreviations, particularly acronyms. Some writers tend to pluralize abbreviations by adding  (apostrophe s), as in "two PC's have broken screens", although this notation typically indicates possessive case. However, this style is not preferred by many style guides. For instance, Kate Turabian, writing about style in academic writings, allows for an apostrophe to form plural acronyms "only when an abbreviation contains internal periods or both capital and lowercase letters". Turabian would therefore prefer "DVDs" and "URLs" and "Ph.D.'s", while the Modern Language Association explicitly says, "do not use an apostrophe to form the plural of an abbreviation". Also, the American Psychological Association specifically says, "without an apostrophe".
+
+However, the 1999 style guide for The New York Times states that the addition of an apostrophe is necessary when pluralizing all abbreviations, preferring "PC's, TV's and VCR's".
+
+Following those who would generally omit the apostrophe, to form the plural of run batted in, simply add an s to the end of RBI.
+
+RBIs
+
+For all other rules, see below:
+
+To form the plural of an abbreviation, a number, or a capital letter used as a noun, simply add a lowercase s to the end. Apostrophes following decades and single letters are also common.
+ A group of MPs
+ The roaring 20s
+ Mind your Ps and Qs
+
+To indicate the plural of the abbreviation or symbol of a unit of measure, the same form is used as in the singular.
+ 1 lb or 20 lb
+ 1 ft or 16 ft
+ 1 min or 45 min
+
+When an abbreviation contains more than one full point, Hart's Rules recommends putting the s after the final one.
+ Ph.D.s
+ M.Phil.s
+ the d.t.s
+However, subject to any house style or consistency requirement, the same plurals may be rendered less formally as:
+ PhDs
+ MPhils
+ the DTs. (This is the recommended form in the New Oxford Dictionary for Writers and Editors.)
+
+According to Hart's Rules, an apostrophe may be used in rare cases where clarity calls for it, for example when letters or symbols are referred to as objects.
+ The x's of the equation
+ Dot the i's and cross the t's
+However, the apostrophe can be dispensed with if the items are set in italics or quotes:
+ The xs of the equation
+ Dot the 'i's and cross the 't's
+
+In Latin, and continuing to the derivative forms in European languages as well as English, single-letter abbreviations had the plural being a doubling of the letter for note-taking. Most of these deal with writing and publishing. A few longer abbreviations use this as well.
+
+Conventions followed by publications and newspapers
+
+United States 
+
+Publications based in the U.S. tend to follow the style guides of The Chicago Manual of Style and the Associated Press. The U.S. Government follows a style guide published by the U.S. Government Printing Office. The National Institute of Standards and Technology sets the style for abbreviations of units.
+
+United Kingdom 
+
+Many British publications follow some of these guidelines in abbreviation:
+ For the sake of convenience, many British publications, including the BBC and The Guardian, have completely done away with the use of full stops or periods in all abbreviations. These include:
+ Social titles, e.g. Ms or Mr (though these would usually have not had full stops—see above) Capt, Prof, etc.;
+ Two-letter abbreviations for countries ("US", not "U.S.");
+ Abbreviations beyond three letters (full caps for all except initialisms);
+ Words seldom abbreviated with lower case letters ("PR", instead of "p.r.", or "pr")
+ Names ("FW de Klerk", "GB Whiteley", "Park JS"). A notable exception is The Economist which writes "Mr F. W. de Klerk".
+ Scientific units (see Measurement below).
+ Acronyms are often referred to with only the first letter of the abbreviation capitalized. For instance, the North Atlantic Treaty Organisation can be abbreviated as "Nato" or "NATO", and Severe Acute Respiratory Syndrome as "Sars" or "SARS" (compare with "laser" which has made the full transition to an English word and is rarely capitalised at all).
+ Initialisms are always written in capitals; for example the "British Broadcasting Corporation" is abbreviated to "BBC", never "Bbc". An initialism is also an acronym but is not pronounced as a word.
+ When abbreviating scientific units, no space is added between the number and unit (100mph, 100m, 10cm, 10°C). (This is contrary to the SI standard; see below.)
+
+Miscellaneous and general rules 
+
+ A doubled letter appears in abbreviations of some Welsh names, as in Welsh the double "l" is a separate sound: "Ll. George" for (British prime minister) David Lloyd George.
+ Some titles, such as "Reverend" and "Honourable", are spelt out when preceded by "the", rather than as "Rev." or "Hon." respectively. This is true for most British publications, and some in the United States.
+ A repeatedly used abbreviation should be spelt out for identification on its first occurrence in a written or spoken passage. Abbreviations likely to be unfamiliar to many readers should be avoided.
+
+Measurements: abbreviations or symbols
+Writers often use shorthand to denote units of measure. Such shorthand can be an abbreviation, such as "in" for "inch" or can be a symbol such as "km" for "kilometre" (or kilometer).
+
+In the International System of Units (SI) manual the word "symbol" is used consistently to define the shorthand used to represent the various SI units of measure. The manual also defines the way in which units should be written, the principal rules being:
+The conventions for upper and lower case letters must be observed—for example 1 MW (megawatts) is equal to 1,000,000 watts and 1,000,000,000 mW (milliwatts).
+No periods should be inserted between letters—for example "m.s" (which is an approximation of "m·s", which correctly uses middle dot) is the symbol for "metres multiplied by seconds", but "ms" is the symbol for milliseconds.
+No periods should follow the symbol unless the syntax of the sentence demands otherwise (for example a full stop at the end of a sentence).
+The singular and plural versions of the symbol are identical—not all languages use the letter "s" to denote a plural.
+
+Syllabic abbreviation 
+
+A syllabic abbreviation is usually formed from the initial syllables of several words, such as Interpol = International + police. It is a variant of the acronym. Syllabic abbreviations are usually written using lower case, sometimes starting with a capital letter, and are always pronounced as words rather than letter by letter. Syllabic abbreviations should be distinguished from portmanteaus, which combine two words without necessarily taking whole syllables from each.
+
+By language
+
+Albanian 
+
+In Albanian, syllabic acronyms are used sometimes for composing a person's name such as  Migjeni an abbreviation from his original name (Millosh Gjergj Nikolla) a famous albanian poet and writer, or ASDRENI (Aleksander Stavre Drenova), another famous albanian poet. 
+Another such name which is used commonly in recent decades is GETOAR composed from Gegeria + Tosks (the latter are two main dialects of the albanian language Gegë & Toskë based on two main regions Gegëria and Toskëria) and 'Arbanon - which is an alternative way used to describe all Albanian lands.
+
+ English 
+Syllabic abbreviations are not widely used in English. Some UK government agencies such as Ofcom (Office of Communications) and the former Oftel (Office of Telecommunications) use this style.
+
+New York City has various neighborhoods named by syllabic abbreviation, such as Tribeca (Triangle below Canal Street) and SoHo (South of Houston Street). This usage has spread into other American cities, giving SoMa, San Francisco (South of Market) and LoDo, Denver (Lower Downtown), amongst others.
+
+Chicago-based electric service provider ComEd is a syllabic abbreviation of (Commonwealth) and Thomas (Edison.)
+
+Partially syllabic abbreviations are preferred by the US Navy, as it increases readability amidst the large number of initialisms that would otherwise have to fit into the same acronyms. Hence DESRON 6 is used (in the full capital form) to mean "Destroyer Squadron 6", while COMNAVAIRLANT would be "Commander, Naval Air Force (in the) Atlantic."
+
+Syllabic abbreviations are a prominent feature of Newspeak, the fictional language of George Orwell's dystopian novel Nineteen Eighty-Four.  The political contractions of Newspeak—Ingsoc (English Socialism), Minitrue (Ministry of Truth), Miniplenty (Ministry of Plenty)—are described by Orwell as similar to real examples of German (q.v.) and Russian contractions (q.v.) in the 20th century. Like Nazi (Nationalsozialismus) and Gestapo (Geheime Staatspolizei), politburo (Political Bureau of the Central Committee of the Communist Party of the Soviet Union), Comintern (Communist International), kolkhoz (collective farm), and Komsomol (Young Communists' League), the contractions in Newspeak, are supposed to have a political function already in virtue of their abbreviated structure itself: nice sounding and easily pronounceable, their purpose is to mask all ideological content from the speaker.
+
+A more recent syllabic abbreviation has emerged with the disease COVID-19 (COrona VIrus Disease 2019) caused by the Severe acute respiratory syndrome coronavirus 2 virus (itself frequently abbreviated to SARS-CoV-2, mostly but not entirely an initialism).
+
+ German 
+Syllabic abbreviations were and are common in German; much like acronyms in English, they have a distinctly modern connotation, although contrary to popular belief, many date back to before 1933, if not the end of the Great War.  Kriminalpolizei, literally criminal police but idiomatically the Criminal Investigation Department of any German police force, begat KriPo (variously capitalised), and likewise Schutzpolizei, the protection police or uniform department, begat SchuPo.  Along the same lines, the Swiss Federal Railways' Transit Police—the Transportpolizei—are abbreviated as the TraPo.
+
+With the National Socialist German Workers' Party gaining power came a frenzy of government reorganisation, and with it a series of entirely new syllabic abbreviations.  The single national police force amalgamated from the Schutzpolizeien of the various states became the Ordnungspolizei or order police; the state KriPos together formed the Sicherheitspolizei or security police; and there was also the Geheime Staatspolizei or secret state police.  The new order of the German Democratic Republic in the east brought about a conscious denazification, but also a repudiation of earlier turns of phrase in favour of neologisms such as Stasi for Staatssicherheit ("state security", the secret police) and VoPo for Volkspolizei. The phrase politisches Büro, which may be rendered literally as office of politics or idiomatically as political party steering committee, became Politbüro.
+
+Syllabic abbreviations are not only used in politics, however.  Many business names, trademarks, and service marks from across Germany are created on the same pattern: for a few examples, there is Aldi, from Theo Albrecht, the name of its founder, followed by discount; Haribo, from Hans Riegel, the name of its founder, followed by Bonn, the town of its head office; and Adidas, from Adolf "Adi" Dassler, the nickname of its founder followed by his surname.
+
+ Russian 
+
+Leninist organisations such as the Comintern (Communist International) and Komsomol (Kommunisticheskii Soyuz Molodyozhi, or "Communist youth union") used Russian language syllabic abbreviations.  In the modern Russian language, words like Minoborony (from Ministerstvo oborony — Ministry of Defence) and Minobrnauki (from Ministerstvo obrazovaniya i nauki — Ministry of Education and Science) are still commonly used.  Further afield in Belarus, there is Beltelecom (Belarus Telecommunication) and Belsat (Belarus Satellite).
+
+ Spanish 
+Syllabic abbreviations are common in Spanish; examples abound in organization names such as Pemex for Petróleos Mexicanos ("Mexican Petroleums") or Fonafifo for Fondo Nacional de Financimiento Forestal (National Forestry Financing Fund).
+
+ Malay and Indonesian 
+In Southeast Asian languages, especially in Malay languages, syllabic abbreviations are also common; examples include Petronas (for Petroliam Nasional, "National Petroleum"), its Indonesian equivalent Pertamina (from its original name Perusahaan Pertambangan Minyak dan Gas Bumi Negara, "State Oil and Natural Gas Mining Company"), and Kemenhub (from Kementerian Perhubungan, "Ministry of Transportation")
+
+ CJK 
+East Asian languages whose writing systems use Chinese characters form abbreviations similarly by using key Chinese characters from a term or phrase. For example, in Japanese the term for the United Nations, kokusai rengō (国際連合) is often abbreviated to kokuren (国連). (Such abbreviations are called ryakugo (略語) in Japanese; see also Japanese abbreviated and contracted words). The syllabic abbreviation is frequently used for universities: for instance, Tōdai (東大) for Tōkyō daigaku (東京大学, University of Tokyo) and is used similarly in Chinese: Běidà (北大) for Běijīng Dàxué'' (北京大学, Peking University). The English phrase "Gung ho" originated as a Chinese abbreviation.
+
+See also
+
+Lists
+ List of abbreviations used in medical prescriptions
+ List of abbreviations in photography
+ List of acronyms
+ List of business and finance abbreviations
+ List of classical abbreviations
+ List of medieval abbreviations
+ List of portmanteaus
+ The abbreviations used in the 1913 edition of Webster's dictionary
+
+Synonyms etc.
+ Abbreviation (music)
+ Clipping (morphology)
+ Gramogram
+ SMS language
+ Numeronym
+ Neologism
+ RAS syndrome
+ Unicode alias names and abbreviations
+
+Notes
+
+References
+
+External links
