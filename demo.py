@@ -52,7 +52,7 @@ def fill_pinecone_index(documents):
             )
             index.upsert([data])
             print(f'Embedded and inserted document with title ' + doc['title'])
-            time.sleep(3)
+            time.sleep(1)
         except:
             print(f'Could not embed and insert document with title ' + doc['title'])
 
