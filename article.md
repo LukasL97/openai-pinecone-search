@@ -55,7 +55,7 @@ the texts of the relevant documents.
 
 ## Implementation
 
-We will look at an implementation of the question answering approach in a small python script.
+We will look at an implementation of the question answering approach in a small Python script.
 You can find the entire code for the demo on [GitHub](https://github.com/LukasL97/openai-pinecone-search).
 
 ### Set up OpenAI and Pinecone
@@ -107,10 +107,9 @@ without ending) and the *content*.
 ```python
 import os
 
-
 def load_documents():
     documents = []
-    documents_path = 'data_old'
+    documents_path = 'data'
     for filename in os.listdir(documents_path):
         file_path = os.path.join(documents_path, filename)
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -156,7 +155,7 @@ def fill_pinecone_index(documents):
             )
             index.upsert([data])
             print(f'Embedded and inserted document with title ' + doc['title'])
-            time.sleep(3)
+            time.sleep(1)
         except:
             print(f'Could not embed and insert document with title ' + doc['title'])
 
@@ -164,7 +163,7 @@ documents = load_documents()
 fill_pinecone_index(documents)
 ```
 
-You may note that we have added a `time.sleep(3)` after each embedding and insertion.
+You may note that we have added a `time.sleep(1)` after each embedding and insertion.
 This is in order to avoid a rate limit error from OpenAI, which only allows a certain number of tokens to be embedded
 per minute.
 Further, the embedding model we use is currently limited to texts of up to 8,191 input tokens, which may not be
@@ -176,15 +175,16 @@ those individually.
 
 ### Answer questions about the documents
 
-To answer questions about our documents, we will find the relevant documents by querying the Pinecone index and then
-use these documents and the question to create a prompt for the OpenAI chat completion endpoint, which asks the model
-to answer the question based on the given text.
+To answer questions about our documents, we will first find the relevant ones by querying the Pinecone index, and then
+use these documents and combine them with the question into a prompt for the OpenAI chat completion endpoint, 
+asking the model to answer the question based on the given text.
 
 To retrieve the relevant documents, we simply embed the question using the same model that we used to embed the
 documents.
 Then, we query the index with this embedding vector, which will retrieve the top *k* similar vectors in the index.
-We set *k* to 1 in this case, as we only answer the question based on a single document, but a larger value can be used
-as well, to then create a prompt that asks the chat model to answer the question based on multiple texts.
+We set *k* to 1 in this case, as we only answer the question based on a single document.
+You may want to use a larger value for *k* to enable the document to take multiple documents into account,
+if that is required for your use case.
 We fetch the title of the document from the metadata, which will enable us to retrieve the document from the disk.
 
 ```python
@@ -203,7 +203,7 @@ We use the title of the document to retrieve the document content from the disk:
 
 ```python
 def load_document_content(title):
-    documents_path = 'data_old'
+    documents_path = 'data'
     file_path = os.path.join(documents_path, title + '.txt')
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
