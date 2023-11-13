@@ -163,7 +163,7 @@ documents = load_documents()
 fill_pinecone_index(documents)
 ```
 
-You may note that we have added a `time.sleep(1)` after each embedding and insertion.
+You may notice that we have added a `time.sleep(1)` after each embedding and insertion.
 This is in order to avoid a rate limit error from OpenAI, which only allows a certain number of tokens to be embedded
 per minute.
 Further, the embedding model we use is currently limited to texts of up to 8,191 input tokens, which may not be
@@ -183,7 +183,7 @@ To retrieve the relevant documents, we simply embed the question using the same 
 documents.
 Then, we query the index with this embedding vector, which will retrieve the top *k* similar vectors in the index.
 We set *k* to 1 in this case, as we only answer the question based on a single document.
-You may want to use a larger value for *k* to enable the document to take multiple documents into account,
+You may want to use a larger value for *k* to enable the system to take multiple documents into account,
 if that is required for your use case.
 We fetch the title of the document from the metadata, which will enable us to retrieve the document from the disk.
 
@@ -228,8 +228,8 @@ be sufficient for this use case.
 The *16k* version of the model allows for up to 16,385 tokens, which allows us to put long texts into the prompt.
 We pass a list of messages to the chat completion model, which consists of the conversation up to this point.
 As we start a new conversation, our list consists of a single user message with our prompt as content.
-The model returns a list of completion choices, which could be more than one if specified in the request,
-but we did not specify a value, hence it defaults to only a single completion.
+The model returns a list of completion choices, which could be more than one if specified in the request.
+As we did not specify a value, it defaults to only a single completion.
 We extract the message content of the completion, which contains the answer to our prompt.
 
 ```python
@@ -256,7 +256,7 @@ print(answer)
 ### Examples
 
 Now we can ask questions about information from out documents and retrieve an answer from OpenAI.
-Using some Wikipedia articles about different topics as our example documents, we try out the following question:
+Using around 800 Wikipedia articles about different topics as our example documents, we try out the following question:
 
 > What role does the president play in the political system of Angola?
 
@@ -265,8 +265,8 @@ Using this document in our prompt enables OpenAI to answer the question correctl
 
 > The president in the political system of Angola holds almost absolute power. They are the head of state and head of government, as well as the leader of the winning party or coalition. The president appoints and dismisses members of the government, members of various courts, the Governor and Vice-Governors of the Nacional Angolan Bank, the General-Attorney and their deputies, the Governors of the provinces, and many other key positions in the government, military, police, intelligence, and security organs. The president is also responsible for defining the policy of the country and has the power to promulgate laws and make edicts. However, the president is not directly involved in making laws.
 
-While this is already impressive, it has to be mentioned that we cheated a little, as we used a Wikipedia article
-as our document for testing the system.
+While this is already impressive, it has to be mentioned that we cheated a little, as we used Wikipedia articles
+as our documents for testing the system.
 As the OpenAI model was trained on publicly available internet content, it is likely that it has seen this exact
 article and would have been able to answer the question anyway, even without receiving the document as part of the
 input prompt.
@@ -310,6 +310,6 @@ Instead of inserting and querying embedding vectors into the database, Chroma al
 rendering the use of OpenAI's embedding model unnecessary.
 Another alternative is [Faiss](https://faiss.ai/index.html), which is an open-source library for efficient GPU-driven
 vector similarity search.
-Compared to Pinecone, Faiss lacks the ability to store vectors as it is only a vector index, not a vector database.
+Compared to Pinecone, Faiss lacks the ability to store vectors, as it is only a vector index, not a vector database.
 Both Chroma and Faiss require you to host a database yourself, which make them somewhat less convenient to use than
 the managed Pinecone database.
